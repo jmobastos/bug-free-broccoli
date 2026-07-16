@@ -1,0 +1,11 @@
+# EDL: edl-outbound-staging-ip  (type: ip)
+# 1.1.1.1
+# Generated: 2026-07-16 09:53:02 UTC  by panos_to_scm v1.8.1
+# Entries: 1
+#
+1.1.1.1
+
+# ============================================================================
+# ENTRY DETAILS (comments — ignored by the firewall)
+# ============================================================================
+# 1.1.1.1 — Australia — AS13335 CLOUDFLARENET — 1 hit(s) — via manual (admin)
