@@ -1,0 +1,11 @@
+# EDL: edl-outbound-staging  (type: domain)
+# just testing the broccoli power
+# Generated: 2026-07-16 09:50:49 UTC  by panos_to_scm v1.8.1
+# Entries: 1
+#
+jn.pt
+
+# ============================================================================
+# ENTRY DETAILS (comments — ignored by the firewall)
+# ============================================================================
+# jn.pt — Spain — AS16509 AMAZON-02 — 1 hit(s) — via manual (admin)
