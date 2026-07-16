@@ -1,0 +1,128 @@
+# EDL: xdr-block-list-stage  (type: ip)
+# Generated: 2026-07-16 09:48:51 UTC  by panos_to_scm v1.8.1
+# Entries: 60
+#
+202.144.192.47
+198.12.106.60
+185.195.232.139
+179.43.172.213
+146.19.216.125
+146.19.216.120
+146.19.216.119
+104.207.144.154
+23.128.228.6
+209.15.114.53
+203.161.30.164
+198.50.239.95
+195.178.110.25
+195.3.222.78
+186.247.47.252
+185.205.194.107
+185.173.235.144
+179.43.146.226
+176.65.139.44
+176.65.139.7
+172.235.235.248
+172.235.181.217
+172.235.173.150
+172.235.168.35
+172.234.162.56
+172.105.69.26
+164.92.70.40
+162.243.51.145
+161.132.53.68
+160.16.124.107
+154.70.82.114
+152.42.228.153
+139.162.173.209
+137.184.184.209
+134.209.97.194
+130.12.180.207
+130.12.180.177
+130.12.180.122
+130.12.180.63
+130.12.180.55
+105.21.64.130
+103.125.219.69
+101.108.51.244
+87.120.191.67
+85.215.219.126
+64.82.228.45
+64.82.206.195
+64.82.206.194
+54.163.2.228
+47.251.42.6
+45.198.224.22
+45.156.129.186
+45.156.128.172
+45.156.87.40
+38.54.1.29
+34.194.151.175
+23.29.156.136
+5.149.130.174
+4.234.194.233
+13.72.110.24
+
+# ============================================================================
+# ENTRY DETAILS (comments — ignored by the firewall)
+# ============================================================================
+# 202.144.192.47 — Japan — AS63916 IPTELECOM-AS-AP — 1 hit(s) — via filter:blacklist-updated- — object 202.144.192.47 via CVE-2026-0257
+# 198.12.106.60 — United States — AS36352 AS-COLOCROSSING — 1 hit(s) — via filter:blacklist-updated- — object 198.12.106.60 via CVE-2026-0257
+# 185.195.232.139 — United Kingdom — AS39351 ESAB-AS — 1 hit(s) — via filter:blacklist-updated- — object 185.195.232.139 via CVE-2026-0257
+# 179.43.172.213 — Switzerland — AS51852 PLI-AS — 1 hit(s) — via filter:blacklist-updated- — object 179.43.172.213 via CVE-2026-0257
+# 146.19.216.125 — United States — AS134677 IDC-AS-AP — 1 hit(s) — via filter:blacklist-updated- — object 146.19.216.125 via CVE-2026-0257
+# 146.19.216.120 — United States — AS134677 IDC-AS-AP — 1 hit(s) — via filter:blacklist-updated- — object 146.19.216.120 via CVE-2026-0257
+# 146.19.216.119 — United States — AS134677 IDC-AS-AP — 1 hit(s) — via filter:blacklist-updated- — object 146.19.216.119 via CVE-2026-0257
+# 104.207.144.154 — United States — AS20473 AS-VULTR — 1 hit(s) — via filter:blacklist-updated- — object 104.207.144.154 via CVE-2026-0257
+# 23.128.228.6 — Japan — AS138997 EDCL-AS-AP — 1 hit(s) — via filter:blacklist-updated- — object 23.128.228.6 via CVE-2026-0257
+# 209.15.114.53 — Thailand — AS135566 NTPCL-AS-AP — 1 hit(s) — via filter:blacklist-updated-
+# 203.161.30.164 — Indonesia — AS138823 TUSNETWORK-AS-ID — 1 hit(s) — via filter:blacklist-updated-
+# 198.50.239.95 — United States — AS16276 OVH — 1 hit(s) — via filter:blacklist-updated-
+# 195.178.110.25 — Andorra — AS48090 DMZHOST — 1 hit(s) — via filter:blacklist-updated-
+# 195.3.222.78 — Poland — AS201814 Mevspace — 1 hit(s) — via filter:blacklist-updated-
+# 186.247.47.252 — Hong Kong — AS147049 PACKETHUBSA-AS-AP — 1 hit(s) — via filter:blacklist-updated-
+# 185.205.194.107 — The Netherlands — AS214677 DeluxHost — 1 hit(s) — via filter:blacklist-updated-
+# 185.173.235.144 — The Netherlands — AS57717 FBX-AS — 1 hit(s) — via filter:blacklist-updated-
+# 179.43.146.226 — Switzerland — AS51852 PLI-AS — 1 hit(s) — via filter:blacklist-updated-
+# 176.65.139.44 — The Netherlands — AS214472 STORMINDUSTRIES — 1 hit(s) — via filter:blacklist-updated-
+# 176.65.139.7 — The Netherlands — AS214472 STORMINDUSTRIES — 1 hit(s) — via filter:blacklist-updated-
+# 172.235.235.248 — Italy — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 172.235.181.217 — The Netherlands — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 172.235.173.150 — The Netherlands — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 172.235.168.35 — The Netherlands — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 172.234.162.56 — France — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 172.105.69.26 — Germany — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 164.92.70.40 — United States — AS14061 DIGITALOCEAN-ASN — 1 hit(s) — via filter:blacklist-updated-
+# 162.243.51.145 — United States — AS14061 DIGITALOCEAN-ASN — 1 hit(s) — via filter:blacklist-updated-
+# 161.132.53.68 — Peru — AS3132 Red Cientifica Peruana — 1 hit(s) — via filter:blacklist-updated-
+# 160.16.124.107 — Japan — AS9370 SAKURA Internet Inc. — 1 hit(s) — via filter:blacklist-updated-
+# 154.70.82.114 — Togo — AS30982 CAFENET — 1 hit(s) — via filter:blacklist-updated-
+# 152.42.228.153 — Singapore — AS14061 DIGITALOCEAN-ASN — 1 hit(s) — via filter:blacklist-updated-
+# 139.162.173.209 — Germany — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — via filter:blacklist-updated-
+# 137.184.184.209 — United States — AS14061 DIGITALOCEAN-ASN — 1 hit(s) — via filter:blacklist-updated-
+# 134.209.97.194 — Singapore — AS14061 DIGITALOCEAN-ASN — 1 hit(s) — via filter:blacklist-updated-
+# 130.12.180.207 — The Netherlands — AS202412 OMEGATECH-AS — 1 hit(s) — via filter:blacklist-updated-
+# 130.12.180.177 — The Netherlands — AS202412 OMEGATECH-AS — 1 hit(s) — via filter:blacklist-updated-
+# 130.12.180.122 — The Netherlands — AS202412 OMEGATECH-AS — 1 hit(s) — via filter:blacklist-updated-
+# 130.12.180.63 — The Netherlands — AS202412 OMEGATECH-AS — 1 hit(s) — via filter:blacklist-updated-
+# 130.12.180.55 — The Netherlands — AS202412 OMEGATECH-AS — 1 hit(s) — via filter:blacklist-updated-
+# 105.21.64.130 — Uganda — AS37100 SEACOM-AS — 1 hit(s) — via filter:blacklist-updated-
+# 103.125.219.69 — Japan — AS36007 KAMATERA — 1 hit(s) — via filter:blacklist-updated-
+# 101.108.51.244 — Thailand — AS23974 MOE-AS-AP — 1 hit(s) — via filter:blacklist-updated-
+# 87.120.191.67 — Germany — 1 hit(s) — via filter:blacklist-updated-
+# 85.215.219.126 — Germany — AS8560 IONOS-AS — 1 hit(s) — via filter:blacklist-updated-
+# 64.82.228.45 — United States — AS27419 BIGRIVER — 1 hit(s) — via filter:blacklist-updated-
+# 64.82.206.195 — United States — AS27419 BIGRIVER — 1 hit(s) — via filter:blacklist-updated-
+# 64.82.206.194 — United States — AS27419 BIGRIVER — 1 hit(s) — via filter:blacklist-updated-
+# 54.163.2.228 — United States — AS14618 AMAZON-AES — 1 hit(s) — via filter:blacklist-updated-
+# 47.251.42.6 — United States — AS45102 ALIBABA-CN-NET — 1 hit(s) — via filter:blacklist-updated-
+# 45.198.224.22 — Sweden — AS215925 VPSVAULTHOST — 1 hit(s) — via filter:blacklist-updated-
+# 45.156.129.186 — United States — AS211680 AS-BITSIGHT — 1 hit(s) — via filter:blacklist-updated-
+# 45.156.128.172 — The Netherlands — AS211680 AS-BITSIGHT — 1 hit(s) — via filter:blacklist-updated-
+# 45.156.87.40 — The Netherlands — AS51396 PFCLOUD — 1 hit(s) — via filter:blacklist-updated-
+# 38.54.1.29 — Singapore — AS138915 KAOPU-HK — 1 hit(s) — via filter:blacklist-updated-
+# 34.194.151.175 — United States — AS14618 AMAZON-AES — 1 hit(s) — via filter:blacklist-updated-
+# 23.29.156.136 — United States — AS47869 CL-1763-47869 — 1 hit(s) — via filter:blacklist-updated-
+# 5.149.130.174 — Saudi Arabia — AS35753 ITC — 1 hit(s) — via filter:blacklist-updated-
+# 4.234.194.233 — United Kingdom — AS8075 MICROSOFT-CORP-MSN-AS-BLOCK — 1 hit(s) — via filter:blacklist-updated-
+# 13.72.110.24 — United States — AS8075 MICROSOFT-CORP-MSN-AS-BLOCK — 15 hit(s) — via filter:blacklist-updated-02-07-2026-src
