@@ -1,13 +1,13 @@
 # EDL: Stage_GP  (type: ip)
-# Generated: 2026-07-18 13:58:05 UTC  by panos_to_scm v1.9.18
+# Generated: 2026-07-18 19:58:11 UTC  by panos_to_scm v1.9.18
 # Entries: 474
 #
 191.102.163.176/32 # United States — AS394474 WHITELABELCOLO393 — 3 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.42/32 # South Africa — AS211486 AAA-AS — 8 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.38/32 # South Africa — AS211486 AAA-AS — 8 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.26/32 # South Africa — AS211486 AAA-AS — 8 hit(s) — via filter:opopdfw01-gp-bruteforce
-77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 8 hit(s) — via filter:opopdfw01-gp-bruteforce
-77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 8 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.42/32 # South Africa — AS211486 AAA-AS — 9 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.38/32 # South Africa — AS211486 AAA-AS — 9 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.26/32 # South Africa — AS211486 AAA-AS — 9 hit(s) — via filter:opopdfw01-gp-bruteforce
+77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 9 hit(s) — via filter:opopdfw01-gp-bruteforce
+77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 9 hit(s) — via filter:opopdfw01-gp-bruteforce
 132.255.135.145/32 # United States — AS52485 networksdelmanana.com — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
 91.242.127.81/32 # United States — AS46918 GLPEER — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
 191.102.170.191/32 # United States — AS394474 WHITELABELCOLO393 — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
@@ -475,4 +475,4 @@
 132.255.135.177/32 # United States — AS52485 networksdelmanana.com — 12 hit(s) — via filter:opopdfw01-gp-bruteforce
 170.247.220.146/32 # United States — AS52449 My Tech BZ — 12 hit(s) — via filter:opopdfw01-gp-bruteforce
 193.34.74.104/32 # United States — AS6461 ZAYO-6461 — 12 hit(s) — via filter:opopdfw01-gp-bruteforce
-23.94.252.213/32 # United States — AS207043 DEDIK-IO — 190 hit(s) — via filter:opopdfw01-gp-bruteforce
+23.94.252.213/32 # United States — AS207043 DEDIK-IO — 202 hit(s) — via filter:opopdfw01-gp-bruteforce
