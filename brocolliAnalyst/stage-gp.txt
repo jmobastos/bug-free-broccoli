@@ -1,16 +1,16 @@
 # EDL: Stage_GP  (type: ip)
-# Generated: 2026-07-20 01:58:48 UTC  by panos_to_scm v1.9.18
+# Generated: 2026-07-20 07:58:56 UTC  by panos_to_scm v1.9.18
 # Entries: 477
 #
-151.245.3.65/32 # Spain — AS212238 CDNEXT — 4 hit(s) — via filter:opopdfw01-gp-bruteforce
-194.87.114.106/32 # Germany — AS212238 CDNEXT — 4 hit(s) — via filter:opopdfw01-gp-bruteforce
-74.0.96.194/32 # United States — AS212238 CDNEXT — 5 hit(s) — via filter:opopdfw01-gp-bruteforce
+151.245.3.65/32 # Spain — AS212238 CDNEXT — 5 hit(s) — via filter:opopdfw01-gp-bruteforce
+194.87.114.106/32 # Germany — AS212238 CDNEXT — 5 hit(s) — via filter:opopdfw01-gp-bruteforce
+74.0.96.194/32 # United States — AS212238 CDNEXT — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
 191.102.163.176/32 # United States — AS394474 WHITELABELCOLO393 — 3 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.42/32 # South Africa — AS211486 AAA-AS — 14 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.38/32 # South Africa — AS211486 AAA-AS — 14 hit(s) — via filter:opopdfw01-gp-bruteforce
-93.152.208.26/32 # South Africa — AS211486 AAA-AS — 14 hit(s) — via filter:opopdfw01-gp-bruteforce
-77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 14 hit(s) — via filter:opopdfw01-gp-bruteforce
-77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 14 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.42/32 # South Africa — AS211486 AAA-AS — 15 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.38/32 # South Africa — AS211486 AAA-AS — 15 hit(s) — via filter:opopdfw01-gp-bruteforce
+93.152.208.26/32 # South Africa — AS211486 AAA-AS — 15 hit(s) — via filter:opopdfw01-gp-bruteforce
+77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 15 hit(s) — via filter:opopdfw01-gp-bruteforce
+77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 15 hit(s) — via filter:opopdfw01-gp-bruteforce
 132.255.135.145/32 # United States — AS52485 networksdelmanana.com — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
 91.242.127.81/32 # United States — AS46918 GLPEER — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
 191.102.170.191/32 # United States — AS394474 WHITELABELCOLO393 — 6 hit(s) — via filter:opopdfw01-gp-bruteforce
