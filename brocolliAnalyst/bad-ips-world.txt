@@ -1,10 +1,10 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-07-31 09:14:52 UTC  by panos_to_scm v1.10.23
+# Generated: 2026-08-04 09:17:24 UTC  by panos_to_scm v1.10.23
 # Entries: 65
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
 18.232.121.80/32 # United States — AS14618 AMAZON-AES — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
-172.235.181.226/32 # The Netherlands — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+172.235.181.226/32 # The Netherlands — AS63949 AKAMAI-LINODE-AP — 2 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 23.164.57.10/32 # United States — AS33755 VALORNODE — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 54.213.230.44/32 # United States — AS16509 AMAZON-02 — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 87.121.84.129/32 # United States — AS215925 VPSVAULTHOST — 1 hit(s) — src:e5dade9a-bace-4e60-976a-4f7540e40f70
