@@ -1,8 +1,10 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-08-06 11:22:41 UTC  by panos_to_scm v1.10.23
-# Entries: 66
+# Generated: 2026-08-11 16:55:30 UTC  by panos_to_scm v1.10.23
+# Entries: 68
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+123.203.71.173/32 # Hong Kong — AS9269 HKBN-AS-AP — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+203.218.108.221/32 # Hong Kong — AS4760 HKTIMS-AP — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 149.248.8.148/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 18.232.121.80/32 # United States — AS14618 AMAZON-AES — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 172.235.181.226/32 # The Netherlands — AS63949 AKAMAI-LINODE-AP — 2 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
