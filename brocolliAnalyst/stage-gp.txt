@@ -1,81 +1,120 @@
 # EDL: Stage_GP  (type: ip)
-# Generated: 2026-08-12 11:34:19 UTC  by panos_to_scm v1.10.23
-# Entries: 553
+# Generated: 2026-08-12 17:34:29 UTC  by panos_to_scm v1.10.23
+# Entries: 592
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
-185.168.31.178/32 # Germany — AS213954 GTS-AS — 8 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-185.168.31.118/32 # Germany — AS213954 GTS-AS — 8 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-170.168.99.208/32 # Germany — AS59651 AS-QualityNetwork — 15 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-185.202.108.19/32 # France — AS46475 LIMESTONENETWORKS — 16 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-77.83.24.112/32 # Germany — AS46475 LIMESTONENETWORKS — 16 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-194.99.27.163/32 # Ukraine — AS43444 BNS-AS — 16 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-130.49.9.68/32 # France — AS59651 AS-QualityNetwork — 18 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-178.20.215.90/32 # France — AS46475 LIMESTONENETWORKS — 18 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-45.135.1.226/32 # United States — AS43444 BNS-AS — 18 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-170.168.96.47/32 # Poland — AS59651 AS-QualityNetwork — 18 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-88.218.45.58/32 # Germany — AS46475 LIMESTONENETWORKS — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-193.202.80.14/32 # United States — AS26548 PUREVOLTAGE-INC — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-88.218.44.238/32 # United States — AS43444 BNS-AS — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-157.22.44.228/32 # Germany — AS213954 GTS-AS — 21 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-157.22.125.22/32 # Poland — AS213954 GTS-AS — 22 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-170.168.30.219/32 # The Netherlands — AS59651 AS-QualityNetwork — 26 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-157.22.74.71/32 # France — AS213954 GTS-AS — 30 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-193.202.87.152/32 # United States — AS26548 PUREVOLTAGE-INC — 31 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.162.132/32 # United States — AS212238 CDNEXT — 34 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-31.59.236.153/32 # Germany — AS212238 CDNEXT — 149 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-95.164.207.220/32 # United States — AS394814 ISP4LIFE — 214 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-209.101.202.191/32 # United States — AS212238 CDNEXT — 249 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-172.96.5.63/32 # United States — AS9009 M247 — 265 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-74.0.102.219/32 # United States — AS212238 CDNEXT — 146 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-74.0.98.109/32 # United States — AS212238 CDNEXT — 255 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-209.101.203.70/32 # United States — AS212238 CDNEXT — 185 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-172.96.6.67/32 # United States — AS9009 M247 — 221 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+23.234.116.119/32 # United States — AS11878 TZULO — 10 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.91.36/32 # United States — AS11878 TZULO — 12 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+37.19.221.163/32 # United States — AS212238 CDNEXT — 18 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.195.232.158/32 # United Kingdom — AS39351 ESAB-AS — 20 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+138.199.43.73/32 # United States — AS212238 CDNEXT — 20 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.241.138/32 # Germany — AS43357 OWL — 22 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.65.134.236/32 # The Netherlands — AS39351 ESAB-AS — 24 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+178.249.211.82/32 # Italy — AS212238 CDNEXT — 26 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+193.32.126.219/32 # France — AS39351 ESAB-AS — 26 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+138.199.15.175/32 # France — AS60068 CDN77 — 28 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.119.160/32 # United States — AS11878 TZULO — 30 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+138.199.15.174/32 # France — AS60068 CDN77 — 32 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+152.233.51.54/32 # Germany — AS212238 CDNEXT — 32 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.107.103/32 # United States — AS11878 TZULO — 32 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+152.233.51.29/32 # Germany — AS212238 CDNEXT — 38 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+151.241.171.174/32 # Germany — AS39351 ESAB-AS — 40 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+152.233.51.85/32 # Germany — AS212238 CDNEXT — 42 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+146.70.173.88/32 # United States — AS9009 M247 — 42 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+141.98.252.213/32 # United Kingdom — AS39351 ESAB-AS — 46 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.241.209/32 # Germany — AS43357 OWL — 46 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+178.249.211.102/32 # Italy — AS212238 CDNEXT — 48 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.121.228/32 # Canada — AS11878 TZULO — 48 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.240.117/32 # Germany — AS43357 OWL — 48 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+68.235.46.175/32 # United States — AS11878 TZULO — 50 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+37.120.133.206/32 # United Kingdom — AS9009 M247 — 52 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.23/32 # Netherlands — AS43357 OWL — 52 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+89.37.63.64/32 # Sweden — AS212238 CDNEXT — 54 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.209.196.139/32 # Germany — AS39351 ESAB-AS — 54 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.86.29/32 # Canada — AS11878 TZULO — 60 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+146.70.119.125/32 # United Kingdom — AS9009 M247 — 80 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+146.70.184.114/32 # France — AS9009 M247 — 80 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.207/32 # Netherlands — AS43357 OWL — 84 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+89.37.63.150/32 # Sweden — AS212238 CDNEXT — 84 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+149.22.91.69/32 # Italy — AS212238 CDNEXT — 94 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+146.70.225.103/32 # Italy — AS9009 M247 — 98 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+45.83.220.209/32 # Sweden — AS39351 ESAB-AS — 102 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+170.62.100.35/32 # Sweden — AS212238 CDNEXT — 102 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.169/32 # Netherlands — AS43357 OWL — 106 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+23.234.122.231/32 # Canada — AS11878 TZULO — 118 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.168.31.178/32 # Germany — AS213954 GTS-AS — 9 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+185.168.31.118/32 # Germany — AS213954 GTS-AS — 9 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+170.168.99.208/32 # Germany — AS59651 AS-QualityNetwork — 16 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+185.202.108.19/32 # France — AS46475 LIMESTONENETWORKS — 17 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+77.83.24.112/32 # Germany — AS46475 LIMESTONENETWORKS — 17 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+194.99.27.163/32 # Ukraine — AS43444 BNS-AS — 17 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+130.49.9.68/32 # France — AS59651 AS-QualityNetwork — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+178.20.215.90/32 # France — AS46475 LIMESTONENETWORKS — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+45.135.1.226/32 # United States — AS43444 BNS-AS — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+170.168.96.47/32 # Poland — AS59651 AS-QualityNetwork — 19 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+88.218.45.58/32 # Germany — AS46475 LIMESTONENETWORKS — 20 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+193.202.80.14/32 # United States — AS26548 PUREVOLTAGE-INC — 20 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+88.218.44.238/32 # United States — AS43444 BNS-AS — 20 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+157.22.44.228/32 # Germany — AS213954 GTS-AS — 22 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+157.22.125.22/32 # Poland — AS213954 GTS-AS — 23 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+170.168.30.219/32 # The Netherlands — AS59651 AS-QualityNetwork — 27 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+157.22.74.71/32 # France — AS213954 GTS-AS — 31 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+193.202.87.152/32 # United States — AS26548 PUREVOLTAGE-INC — 32 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.162.132/32 # United States — AS212238 CDNEXT — 35 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+31.59.236.153/32 # Germany — AS212238 CDNEXT — 151 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+95.164.207.220/32 # United States — AS394814 ISP4LIFE — 217 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.101.202.191/32 # United States — AS212238 CDNEXT — 253 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+172.96.5.63/32 # United States — AS9009 M247 — 267 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+74.0.102.219/32 # United States — AS212238 CDNEXT — 147 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+74.0.98.109/32 # United States — AS212238 CDNEXT — 258 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.101.203.70/32 # United States — AS212238 CDNEXT — 186 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+172.96.6.67/32 # United States — AS9009 M247 — 223 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.101.252.252/32 # United States — AS212238 CDNEXT — 313 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 74.0.97.37/32 # United States — AS212238 CDNEXT — 40 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 191.101.126.157/32 # Germany — AS212238 CDNEXT — 157 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-74.0.101.106/32 # United States — AS212238 CDNEXT — 231 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+74.0.101.106/32 # United States — AS212238 CDNEXT — 233 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.244.191.234/32 # France — AS212238 CDNEXT — 157 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.123.205/32 # United States — AS212238 CDNEXT — 310 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-172.96.7.39/32 # United States — AS9009 M247 — 111 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-194.26.20.199/32 # France — AS212238 CDNEXT — 142 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.123.205/32 # United States — AS212238 CDNEXT — 312 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+172.96.7.39/32 # United States — AS9009 M247 — 112 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+194.26.20.199/32 # France — AS212238 CDNEXT — 144 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.247.221.63/32 # United States — AS212238 CDNEXT — 235 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.122.122/32 # United States — AS212238 CDNEXT — 140 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.122.122/32 # United States — AS212238 CDNEXT — 143 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 178.92.62.207/32 # France — AS212238 CDNEXT — 198 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.160.190/32 # United States — AS9009 M247 — 255 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.160.190/32 # United States — AS9009 M247 — 258 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 89.19.46.140/32 # Czechia — AS212238 CDNEXT — 157 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-94.229.214.160/32 # United States — AS212238 CDNEXT — 216 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.186.195/32 # United States — AS9009 M247 — 271 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-185.172.172.142/32 # Spain — AS212238 CDNEXT — 349 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-166.0.80.123/32 # Lithuania — AS42831 UKSERVERS-AS — 182 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.185.252/32 # United States — AS9009 M247 — 194 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.121.164/32 # United States — AS212238 CDNEXT — 310 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-72.244.46.108/32 # United States — AS212238 CDNEXT — 110 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.165.69/32 # United States — AS212238 CDNEXT — 267 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.127.2/32 # United States — AS212238 CDNEXT — 146 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+94.229.214.160/32 # United States — AS212238 CDNEXT — 218 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.186.195/32 # United States — AS9009 M247 — 272 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+185.172.172.142/32 # Spain — AS212238 CDNEXT — 352 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+166.0.80.123/32 # Lithuania — AS42831 UKSERVERS-AS — 184 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.185.252/32 # United States — AS9009 M247 — 195 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.121.164/32 # United States — AS212238 CDNEXT — 311 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+72.244.46.108/32 # United States — AS212238 CDNEXT — 112 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.165.69/32 # United States — AS212238 CDNEXT — 268 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.127.2/32 # United States — AS212238 CDNEXT — 147 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 45.141.178.125/32 # France — AS212238 CDNEXT — 277 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.247.188.164/32 # United States — AS212238 CDNEXT — 160 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.125.191/32 # United States — AS212238 CDNEXT — 306 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.164.68/32 # United States — AS212238 CDNEXT — 205 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.124.4/32 # United States — AS212238 CDNEXT — 301 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-74.0.96.17/32 # United States — AS212238 CDNEXT — 269 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-74.0.100.184/32 # United States — AS212238 CDNEXT — 337 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.167.241/32 # United States — AS212238 CDNEXT — 192 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.245.77.120/32 # United Kingdom — AS25369 BANDWIDTH-AS — 113 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-82.153.72.207/32 # United Kingdom — AS25369 BANDWIDTH-AS — 98 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.125.191/32 # United States — AS212238 CDNEXT — 308 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.164.68/32 # United States — AS212238 CDNEXT — 208 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.124.4/32 # United States — AS212238 CDNEXT — 304 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+74.0.96.17/32 # United States — AS212238 CDNEXT — 270 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+74.0.100.184/32 # United States — AS212238 CDNEXT — 340 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.167.241/32 # United States — AS212238 CDNEXT — 194 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.245.77.120/32 # United Kingdom — AS25369 BANDWIDTH-AS — 114 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+82.153.72.207/32 # United Kingdom — AS25369 BANDWIDTH-AS — 100 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.101.200.160/32 # United States — AS212238 CDNEXT — 40 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-58.68.174.214/32 # China — AS9009 M247 — 274 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+58.68.174.214/32 # China — AS9009 M247 — 275 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.247.126.135/32 # United States — AS212238 CDNEXT — 80 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-95.164.206.114/32 # United States — AS394814 ISP4LIFE — 263 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.166.161/32 # United States — AS212238 CDNEXT — 110 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-194.26.20.48/32 # France — AS212238 CDNEXT — 317 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.247.120.190/32 # United States — AS212238 CDNEXT — 223 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+95.164.206.114/32 # United States — AS394814 ISP4LIFE — 265 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.166.161/32 # United States — AS212238 CDNEXT — 111 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+194.26.20.48/32 # France — AS212238 CDNEXT — 318 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.247.120.190/32 # United States — AS212238 CDNEXT — 225 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 31.56.98.98/32 # France — AS212238 CDNEXT — 276 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.247.53.70/32 # United States — AS9009 M247 — 235 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-151.244.193.2/32 # France — AS212238 CDNEXT — 189 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-66.93.163.96/32 # United States — AS212238 CDNEXT — 191 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-185.250.187.78/32 # United Kingdom — AS25369 BANDWIDTH-AS — 229 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-209.101.201.124/32 # United States — AS212238 CDNEXT — 185 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-72.244.47.185/32 # United States — AS212238 CDNEXT — 265 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+151.244.193.2/32 # France — AS212238 CDNEXT — 191 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+66.93.163.96/32 # United States — AS212238 CDNEXT — 192 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+185.250.187.78/32 # United Kingdom — AS25369 BANDWIDTH-AS — 231 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.101.201.124/32 # United States — AS212238 CDNEXT — 186 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+72.244.47.185/32 # United States — AS212238 CDNEXT — 267 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 155.212.37.69/32 # The Netherlands — AS43444 BNS-AS — 39 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 130.49.9.26/32 # France — AS59651 AS-QualityNetwork — 39 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 170.168.96.233/32 # Poland — AS59651 AS-QualityNetwork — 40 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
@@ -83,11 +122,11 @@
 194.87.114.106/32 # Germany — AS212238 CDNEXT — 39 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 74.0.96.194/32 # United States — AS212238 CDNEXT — 39 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 191.102.163.176/32 # United States — AS394474 WHITELABELCOLO393 — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-93.152.208.42/32 # South Africa — AS211486 AAA-AS — 61 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-93.152.208.38/32 # South Africa — AS211486 AAA-AS — 61 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-93.152.208.26/32 # South Africa — AS211486 AAA-AS — 61 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 61 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 61 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+93.152.208.42/32 # South Africa — AS211486 AAA-AS — 62 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+93.152.208.38/32 # South Africa — AS211486 AAA-AS — 62 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+93.152.208.26/32 # South Africa — AS211486 AAA-AS — 62 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+77.91.118.50/32 # United States — AS209896 LexistarAllianceLTD — 62 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+77.91.118.18/32 # United States — AS209896 LexistarAllianceLTD — 62 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 132.255.135.145/32 # United States — AS52485 networksdelmanana.com — 6 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 91.242.127.81/32 # United States — AS46918 GLPEER — 6 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 191.102.170.191/32 # United States — AS394474 WHITELABELCOLO393 — 6 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
