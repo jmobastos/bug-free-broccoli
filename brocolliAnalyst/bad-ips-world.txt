@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-10 10:24:58 UTC  by panos_to_scm v1.10.32
+# Generated: 2026-09-10 10:55:08 UTC  by panos_to_scm v1.10.32
 # Entries: 3569
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -93,7 +93,7 @@
 93.152.210.34/32 # Bulgaria — AS211443 SINOWORLDWIDE — 10 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 93.152.210.35/32 # Bulgaria — AS211443 SINOWORLDWIDE — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 216.158.95.195/32 # United States — AS18450 WEBNX — 34 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-93.152.210.30/32 # Bulgaria — AS211443 SINOWORLDWIDE — 30846 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+93.152.210.30/32 # Bulgaria — AS211443 SINOWORLDWIDE — 31843 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 2.27.160.77/32 # United States — AS207043 DEDIK-IO — 12429 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 94.26.36.153/32 # Germany — AS211443 SINOWORLDWIDE — 10 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 2.27.160.57/32 # United States — AS207043 DEDIK-IO — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
