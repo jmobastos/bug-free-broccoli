@@ -1,8 +1,10 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-12 09:09:36 UTC  by panos_to_scm v1.10.32
-# Entries: 3687
+# Generated: 2026-09-12 09:39:53 UTC  by panos_to_scm v1.10.32
+# Entries: 3689
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+147.78.241.86/32 # Germany — AS43357 OWL — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+185.65.135.247/32 # Sweden — AS39351 ESAB-AS — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 184.174.97.135/32 # United States — AS16276 OVH — 3 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 80.64.216.182/32 # United Kingdom — AS209243 quickhostuk — 3 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.120.213/32 # The Netherlands — AS60404 Liteserver — 3 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -218,7 +220,7 @@
 2.27.160.12/32 # United States — AS207043 DEDIK-IO — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 94.26.36.158/32 # Germany — AS211443 SINOWORLDWIDE — 24406 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 94.26.36.157/32 # Germany — AS211443 SINOWORLDWIDE — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-23.94.252.131/32 # United States — AS207043 DEDIK-IO — 33769 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+23.94.252.131/32 # United States — AS207043 DEDIK-IO — 34738 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 94.26.36.159/32 # Germany — AS211443 SINOWORLDWIDE — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 93.152.210.36/32 # Bulgaria — AS211443 SINOWORLDWIDE — 25 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 167.148.201.174/32 # United States — AS135392 MILLENIALHOSTLIMITED-AS-GB — 18 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
@@ -864,12 +866,12 @@
 146.70.166.211/32 # United States — AS9009 M247 — 135 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.234.102.57/32 # United States — AS11878 TZULO — 34 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.234.99.76/32 # United States — AS11878 TZULO — 20 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
-93.88.206.138/32 # Poland — AS202831 ABLAYKHANSHAN — 96247 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-93.88.206.223/32 # Poland — AS202831 ABLAYKHANSHAN — 97967 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-2.27.98.45/32 # Germany — AS202831 ABLAYKHANSHAN — 15929 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.88.206.138/32 # Poland — AS202831 ABLAYKHANSHAN — 96520 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+93.88.206.223/32 # Poland — AS202831 ABLAYKHANSHAN — 98246 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+2.27.98.45/32 # Germany — AS202831 ABLAYKHANSHAN — 15940 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 98.159.97.18/32 # United States — AS63023 AS-GLOBALTELEHOST — 12282 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.98.46/32 # Germany — AS202831 ABLAYKHANSHAN — 108596 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.98.43/32 # Germany — AS202831 ABLAYKHANSHAN — 171999 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.98.46/32 # Germany — AS202831 ABLAYKHANSHAN — 108750 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.98.43/32 # Germany — AS202831 ABLAYKHANSHAN — 172258 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 23.234.118.66/32 # United States — AS11878 TZULO — 9 hit(s) — src:96ab9e6f-f912-4544-9170-f1e16318353c
 23.234.112.226/32 # United States — AS11878 TZULO — 12 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 216.252.238.50/32 # The Netherlands — AS40676 AS40676 — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
