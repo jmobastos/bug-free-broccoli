@@ -1,15 +1,16 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-15 07:14:07 UTC  by panos_to_scm v1.10.33
-# Entries: 3731
+# Generated: 2026-09-15 07:44:30 UTC  by panos_to_scm v1.10.33
+# Entries: 3732
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+31.57.184.228/32 # United States — AS197769 VPSDEDICATED-AS — 272 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.160.24.65/32 # United States — AS30671 DATABRIDGE — 3 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.168.216.174/32 # United States — AS399935 HAYASHIMO — 8 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 31.57.184.226/32 # United States — AS197769 VPSDEDICATED-AS — 9 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.223/32 # United States — AS197769 VPSDEDICATED-AS — 28 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 51 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 91 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 821 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 102 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 182 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 1407 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.219/32 # United States — AS197769 VPSDEDICATED-AS — 9 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.162.40.125/32 # United States — AS400882 AS-CYBER-DATA — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.186/32 # United States — AS17243 BYTENODE-AS — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -46,7 +47,7 @@
 216.252.238.133/32 # The Netherlands — AS40676 AS40676 — 36 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 23.234.91.77/32 # United States — AS11878 TZULO — 84 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 147.78.241.86/32 # Germany — AS43357 OWL — 42 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-185.65.135.247/32 # Sweden — AS39351 ESAB-AS — 78 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+185.65.135.247/32 # Sweden — AS39351 ESAB-AS — 81 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 184.174.97.135/32 # United States — AS16276 OVH — 42 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 80.64.216.182/32 # United Kingdom — AS209243 quickhostuk — 42 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.120.213/32 # The Netherlands — AS60404 Liteserver — 42 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -908,12 +909,12 @@
 146.70.166.211/32 # United States — AS9009 M247 — 219 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.234.102.57/32 # United States — AS11878 TZULO — 34 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.234.99.76/32 # United States — AS11878 TZULO — 20 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
-93.88.206.138/32 # Poland — AS202831 ABLAYKHANSHAN — 117211 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-93.88.206.223/32 # Poland — AS202831 ABLAYKHANSHAN — 119400 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-2.27.98.45/32 # Germany — AS202831 ABLAYKHANSHAN — 17198 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.88.206.138/32 # Poland — AS202831 ABLAYKHANSHAN — 117479 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+93.88.206.223/32 # Poland — AS202831 ABLAYKHANSHAN — 119675 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+2.27.98.45/32 # Germany — AS202831 ABLAYKHANSHAN — 17209 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 98.159.97.18/32 # United States — AS63023 AS-GLOBALTELEHOST — 12282 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.98.46/32 # Germany — AS202831 ABLAYKHANSHAN — 134293 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.98.43/32 # Germany — AS202831 ABLAYKHANSHAN — 217095 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.98.46/32 # Germany — AS202831 ABLAYKHANSHAN — 134444 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.98.43/32 # Germany — AS202831 ABLAYKHANSHAN — 217349 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 23.234.118.66/32 # United States — AS11878 TZULO — 9 hit(s) — src:96ab9e6f-f912-4544-9170-f1e16318353c
 23.234.112.226/32 # United States — AS11878 TZULO — 12 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 216.252.238.50/32 # The Netherlands — AS40676 AS40676 — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
