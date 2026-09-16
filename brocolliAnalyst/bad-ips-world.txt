@@ -1,8 +1,14 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-16 07:52:19 UTC  by panos_to_scm v1.10.33
-# Entries: 3743
+# Generated: 2026-09-16 08:22:31 UTC  by panos_to_scm v1.10.33
+# Entries: 3749
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+135.136.21.77/32 # United Kingdom — AS9009 M247 — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+23.234.110.191/32 # United States — AS11878 TZULO — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+23.234.92.246/32 # United States — AS11878 TZULO — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+23.234.101.222/32 # United States — AS11878 TZULO — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+23.234.88.68/32 # United States — AS11878 TZULO — 4 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+194.126.179.203/32 # Egypt — AS203020 HostRoyale — 6 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 135.136.36.68/32 # United States — AS9009 M247 — 3 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 194.126.179.68/32 # Egypt — AS203020 HostRoyale — 3 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 146.70.165.186/32 # United States — AS9009 M247 — 3 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
@@ -14,14 +20,14 @@
 23.160.24.217/32 # United States — AS30671 DATABRIDGE — 15 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.162.40.49/32 # United States — AS400882 AS-CYBER-DATA — 15 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.38/32 # United States — AS17243 BYTENODE-AS — 15 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-31.57.184.228/32 # United States — AS197769 VPSDEDICATED-AS — 1360 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+31.57.184.228/32 # United States — AS197769 VPSDEDICATED-AS — 1632 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.160.24.65/32 # United States — AS30671 DATABRIDGE — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.168.216.174/32 # United States — AS399935 HAYASHIMO — 53 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 31.57.184.226/32 # United States — AS197769 VPSDEDICATED-AS — 43 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.223/32 # United States — AS197769 VPSDEDICATED-AS — 138 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 561 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 1001 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 7837 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 612 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 1092 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 8356 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.219/32 # United States — AS197769 VPSDEDICATED-AS — 9 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.162.40.125/32 # United States — AS400882 AS-CYBER-DATA — 21 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.186/32 # United States — AS17243 BYTENODE-AS — 21 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
