@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-19 14:46:54 UTC  by panos_to_scm v1.10.34
+# Generated: 2026-09-19 15:17:09 UTC  by panos_to_scm v1.10.34
 # Entries: 3804
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -38,21 +38,21 @@
 23.234.97.122/32 # United States — AS11878 TZULO — 45 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.168.216.147/32 # United States — AS399935 HAYASHIMO — 45 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.162.40.249/32 # United States — AS400882 AS-CYBER-DATA — 45 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-23.234.107.42/32 # United States — AS11878 TZULO — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-141.98.252.155/32 # United Kingdom — AS39351 ESAB-AS — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-146.70.168.249/32 # United States — AS9009 M247 — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.160.24.99/32 # United States — AS30671 DATABRIDGE — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-146.70.117.217/32 # Germany — AS9009 M247 — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-185.195.232.183/32 # United Kingdom — AS39351 ESAB-AS — 45 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.160.24.113/32 # United States — AS30671 DATABRIDGE — 60 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-37.19.221.133/32 # United States — AS212238 CDNEXT — 105 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-147.78.241.78/32 # Germany — AS43357 OWL — 105 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-151.241.171.181/32 # Germany — AS39351 ESAB-AS — 120 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-147.78.241.115/32 # Germany — AS43357 OWL — 120 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.94.78/32 # United States — AS11878 TZULO — 75 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.76.27/32 # United States — AS11878 TZULO — 135 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.107.121/32 # United States — AS11878 TZULO — 90 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-184.107.124.3/32 # Canada — AS32613 IWEB-AS — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+23.234.107.42/32 # United States — AS11878 TZULO — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+141.98.252.155/32 # United Kingdom — AS39351 ESAB-AS — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+146.70.168.249/32 # United States — AS9009 M247 — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.160.24.99/32 # United States — AS30671 DATABRIDGE — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+146.70.117.217/32 # Germany — AS9009 M247 — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+185.195.232.183/32 # United Kingdom — AS39351 ESAB-AS — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.160.24.113/32 # United States — AS30671 DATABRIDGE — 64 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+37.19.221.133/32 # United States — AS212238 CDNEXT — 109 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+147.78.241.78/32 # Germany — AS43357 OWL — 109 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+151.241.171.181/32 # Germany — AS39351 ESAB-AS — 125 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+147.78.241.115/32 # Germany — AS43357 OWL — 125 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.94.78/32 # United States — AS11878 TZULO — 80 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.76.27/32 # United States — AS11878 TZULO — 141 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.107.121/32 # United States — AS11878 TZULO — 96 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+184.107.124.3/32 # Canada — AS32613 IWEB-AS — 15 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.241.171.94/32 # Germany — AS39351 ESAB-AS — 48 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.115.31/32 # United States — AS11878 TZULO — 48 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.88.52/32 # United States — AS11878 TZULO — 93 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -60,16 +60,16 @@
 169.150.196.31/32 # The Netherlands — AS212238 CDNEXT — 64 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 135.136.21.77/32 # United Kingdom — AS9009 M247 — 48 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.110.191/32 # United States — AS11878 TZULO — 48 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-23.234.92.246/32 # United States — AS11878 TZULO — 108 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+23.234.92.246/32 # United States — AS11878 TZULO — 112 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.101.222/32 # United States — AS11878 TZULO — 63 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.88.68/32 # United States — AS11878 TZULO — 144 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-194.126.179.203/32 # Egypt — AS203020 HostRoyale — 141 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-135.136.36.68/32 # United States — AS9009 M247 — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-194.126.179.68/32 # Egypt — AS203020 HostRoyale — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-146.70.165.186/32 # United States — AS9009 M247 — 48 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.116.148/32 # United States — AS11878 TZULO — 64 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-176.119.150.138/32 # Germany — AS43357 OWL — 64 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.165.56.233/32 # United States — AS397668 IFC — 64 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+194.126.179.203/32 # Egypt — AS203020 HostRoyale — 144 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+135.136.36.68/32 # United States — AS9009 M247 — 51 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+194.126.179.68/32 # Egypt — AS203020 HostRoyale — 51 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+146.70.165.186/32 # United States — AS9009 M247 — 51 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.116.148/32 # United States — AS11878 TZULO — 68 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+176.119.150.138/32 # Germany — AS43357 OWL — 68 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.165.56.233/32 # United States — AS397668 IFC — 68 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 181.174.164.93/32 # Panama — AS52469 Offshore Racks S.A — 76 hit(s) — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 23.159.216.108/32 # United States — AS17243 BYTENODE-AS — 60 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.160.24.217/32 # United States — AS30671 DATABRIDGE — 60 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -80,9 +80,9 @@
 23.168.216.174/32 # United States — AS399935 HAYASHIMO — 188 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 31.57.184.226/32 # United States — AS197769 VPSDEDICATED-AS — 43 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.223/32 # United States — AS197769 VPSDEDICATED-AS — 138 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 2142 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 3822 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 26239 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.224/32 # United States — AS197769 VPSDEDICATED-AS — 2193 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.225/32 # United States — AS197769 VPSDEDICATED-AS — 3913 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.229/32 # United States — AS197769 VPSDEDICATED-AS — 26951 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.219/32 # United States — AS197769 VPSDEDICATED-AS — 9 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.162.40.125/32 # United States — AS400882 AS-CYBER-DATA — 66 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.186/32 # United States — AS17243 BYTENODE-AS — 66 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -168,7 +168,7 @@
 185.141.119.166/32 # United States — AS207990 HR-CUSTOMER — 117 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.170/32 # United States — AS17243 BYTENODE-AS — 117 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 173.249.252.98/32 # United States — AS11878 TZULO — 117 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-140.82.38.215/32 # Germany — AS20473 AS-VULTR — 156 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+140.82.38.215/32 # Germany — AS20473 AS-VULTR — 160 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 184.174.97.132/32 # United States — AS16276 OVH — 117 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.117.87/32 # The Netherlands — AS60404 Liteserver — 117 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 23.234.97.192/32 # United States — AS11878 TZULO — 120 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
