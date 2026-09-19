@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-19 09:45:05 UTC  by panos_to_scm v1.10.34
+# Generated: 2026-09-19 10:15:38 UTC  by panos_to_scm v1.10.34
 # Entries: 3802
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -50,7 +50,7 @@
 23.234.94.78/32 # United States — AS11878 TZULO — 70 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.76.27/32 # United States — AS11878 TZULO — 126 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.107.121/32 # United States — AS11878 TZULO — 84 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-184.107.124.3/32 # Canada — AS32613 IWEB-AS — 13 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+184.107.124.3/32 # Canada — AS32613 IWEB-AS — 14 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 151.241.171.94/32 # Germany — AS39351 ESAB-AS — 45 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.115.31/32 # United States — AS11878 TZULO — 45 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.88.52/32 # United States — AS11878 TZULO — 87 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -166,7 +166,7 @@
 185.141.119.166/32 # United States — AS207990 HR-CUSTOMER — 114 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.170/32 # United States — AS17243 BYTENODE-AS — 114 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 173.249.252.98/32 # United States — AS11878 TZULO — 114 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-140.82.38.215/32 # Germany — AS20473 AS-VULTR — 152 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+140.82.38.215/32 # Germany — AS20473 AS-VULTR — 156 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 184.174.97.132/32 # United States — AS16276 OVH — 114 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.117.87/32 # The Netherlands — AS60404 Liteserver — 114 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 23.234.97.192/32 # United States — AS11878 TZULO — 117 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
