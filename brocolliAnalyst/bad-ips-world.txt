@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-23 19:49:06 UTC  by panos_to_scm v1.10.34
+# Generated: 2026-09-23 20:19:22 UTC  by panos_to_scm v1.10.34
 # Entries: 4438
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -84,7 +84,7 @@
 23.234.117.99/32 # United States — AS11878 TZULO — 10 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.76.195/32 # United States — AS11878 TZULO — 10 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 5.253.57.248/32 # The Netherlands — AS212171 Local-as — 56 hit(s) — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-5.253.57.18/32 # The Netherlands — AS212171 Local-as — 79 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+5.253.57.18/32 # The Netherlands — AS212171 Local-as — 85 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.200.246.7/32 # Canada — AS215311 REGXA-CLOUD — 15 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.114.82/32 # The Netherlands — AS60404 Liteserver — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 184.174.97.136/32 # United States — AS16276 OVH — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
