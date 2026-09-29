@@ -1,8 +1,15 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-29 06:06:53 UTC  by panos_to_scm v1.10.34
-# Entries: 4732
+# Generated: 2026-09-29 06:37:25 UTC  by panos_to_scm v1.10.34
+# Entries: 4739
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+104.207.33.129/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.50.182.145/32 # Germany — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+216.26.229.48/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+104.207.39.226/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+65.111.15.190/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.50.162.222/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+209.50.167.216/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 45.3.38.190/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 151.123.178.84/32 # France — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 209.50.180.119/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -79,9 +86,9 @@
 146.70.171.147/32 # United States — AS9009 M247 — 5 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 155.2.191.235/32 # United States — AS136557 HOST-AS-AP — 5 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.102.104/32 # United States — AS11878 TZULO — 5 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-104.207.40.180/32 # 4 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-104.207.45.83/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-65.111.28.25/32 # Italy — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+104.207.40.180/32 # United States — AS200373 Drei-K-Tech-GmbH — 8 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+104.207.45.83/32 # United States — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+65.111.28.25/32 # Italy — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 104.207.53.193/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 209.50.186.224/32 # Italy — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 209.50.184.135/32 # Spain — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
@@ -189,7 +196,7 @@
 23.234.77.229/32 # United States — AS11878 TZULO — 15 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 68.235.46.151/32 # United States — AS11878 TZULO — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 37.19.221.139/32 # United States — AS212238 CDNEXT — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-31.57.184.203/32 # United States — AS197769 VPSDEDICATED-AS — 1355 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+31.57.184.203/32 # United States — AS197769 VPSDEDICATED-AS — 1626 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 31.57.184.195/32 # United States — AS197769 VPSDEDICATED-AS — 786 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 146.70.198.90/32 # Canada — AS9009 M247 — 12 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.160.24.225/32 # United States — AS30671 DATABRIDGE — 12 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
