@@ -1,8 +1,14 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-09-29 10:38:39 UTC  by panos_to_scm v1.10.34
-# Entries: 4788
+# Generated: 2026-09-29 11:09:01 UTC  by panos_to_scm v1.10.34
+# Entries: 4794
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+104.207.50.137/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+209.50.170.63/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+216.26.230.88/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+104.207.46.57/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+209.50.162.46/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+104.207.45.60/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 209.50.162.202/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 216.26.243.205/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 65.111.7.37/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -59,7 +65,7 @@
 65.111.15.190/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.50.162.222/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.50.167.216/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-45.3.38.190/32 # United States — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+45.3.38.190/32 # United States — AS200373 Drei-K-Tech-GmbH — 6 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 151.123.178.84/32 # France — AS200373 Drei-K-Tech-GmbH — 4 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 209.50.180.119/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 3 hit(s) — src:997102ef-1be1-449b-98be-b4f8acba8496
 23.234.107.40/32 # United States — AS11878 TZULO — 3 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
