@@ -1,16 +1,16 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-02 08:36:12 UTC  by panos_to_scm v1.10.34
+# Generated: 2026-10-02 09:06:15 UTC  by panos_to_scm v1.10.34
 # Entries: 5030
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
 103.251.26.93/32 # United States — AS203020 HostRoyale — 14 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-167.148.201.176/32 # United States — AS135392 MILLENIALHOSTLIMITED-AS-GB — 9 hit(s) — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-31.77.251.24/32 # France — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-31.77.251.22/32 # France — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+167.148.201.176/32 # United States — AS135392 MILLENIALHOSTLIMITED-AS-GB — 12 hit(s) — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+31.77.251.24/32 # France — 12 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+31.77.251.22/32 # France — 24 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 146.70.187.65/32 # United States — AS9009 M247 — 12 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-31.77.251.23/32 # France — 509 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.124/32 # Germany — AS202831 PACKETLOSS — 2573 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-31.77.251.21/32 # France — 3986 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.23/32 # France — 544 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.124/32 # Germany — AS202831 PACKETLOSS — 2827 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.21/32 # France — 4380 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 23.234.115.57/32 # United States — AS11878 TZULO — 15 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.112.219/32 # United States — AS11878 TZULO — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.107.101/32 # United States — AS11878 TZULO — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -39,17 +39,17 @@
 146.70.187.232/32 # United States — AS9009 M247 — 3 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.160.24.194/32 # United States — AS30671 DATABRIDGE — 36 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.63/32 # United States — AS17243 BYTENODE-AS — 36 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 621 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-144.31.34.107/32 # Germany — AS202831 PACKETLOSS — 5532 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.112/32 # Germany — AS202831 PACKETLOSS — 5625 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.110/32 # Germany — AS202831 PACKETLOSS — 5648 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.109/32 # Germany — AS202831 PACKETLOSS — 5553 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.105/32 # Germany — AS202831 PACKETLOSS — 6139 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.113/32 # Germany — AS202831 PACKETLOSS — 6115 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.108/32 # Germany — AS202831 PACKETLOSS — 6073 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.111/32 # Germany — AS202831 PACKETLOSS — 6226 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.106/32 # Germany — AS202831 PACKETLOSS — 6605 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.104/32 # Germany — AS202831 PACKETLOSS — 6531 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 641 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+144.31.34.107/32 # Germany — AS202831 PACKETLOSS — 5721 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.112/32 # Germany — AS202831 PACKETLOSS — 5814 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.110/32 # Germany — AS202831 PACKETLOSS — 5830 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.109/32 # Germany — AS202831 PACKETLOSS — 5734 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.105/32 # Germany — AS202831 PACKETLOSS — 6350 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.113/32 # Germany — AS202831 PACKETLOSS — 6322 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.108/32 # Germany — AS202831 PACKETLOSS — 6271 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.111/32 # Germany — AS202831 PACKETLOSS — 6425 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.106/32 # Germany — AS202831 PACKETLOSS — 6819 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.104/32 # Germany — AS202831 PACKETLOSS — 6740 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 62.101.160.194/32 # The Netherlands — AS203020 HostRoyale — 27 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.82.103/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.114.183/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -77,7 +77,7 @@
 146.70.166.215/32 # United States — AS9009 M247 — 14 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.97.51/32 # United States — AS11878 TZULO — 35 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 31.57.184.205/32 # United States — AS197769 VPSDEDICATED-AS — 2972 hit(s) — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-209.50.173.30/32 # United States — AS200373 Drei-K-Tech-GmbH — 33 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+209.50.173.30/32 # United States — AS200373 Drei-K-Tech-GmbH — 36 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 23.234.91.119/32 # United States — AS11878 TZULO — 24 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.75.40/32 # United States — AS11878 TZULO — 9 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.106.249/32 # United States — AS11878 TZULO — 9 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -110,8 +110,8 @@
 209.50.168.50/32 # United States — AS200373 Drei-K-Tech-GmbH — 36 hit(s) — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 209.50.180.89/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 12 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 45.3.54.245/32 # United Kingdom — AS200373 Drei-K-Tech-GmbH — 12 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-216.26.231.143/32 # United States — AS200373 Drei-K-Tech-GmbH — 36 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-216.26.253.181/32 # France — AS200373 Drei-K-Tech-GmbH — 36 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+216.26.231.143/32 # United States — AS200373 Drei-K-Tech-GmbH — 39 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+216.26.253.181/32 # France — AS200373 Drei-K-Tech-GmbH — 39 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 216.26.230.225/32 # United States — AS200373 Drei-K-Tech-GmbH — 12 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 217.181.90.55/32 # Germany — AS200373 Drei-K-Tech-GmbH — 12 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 45.3.45.143/32 # Italy — AS200373 Drei-K-Tech-GmbH — 12 hit(s) — src:aad98d6c-0934-49fb-a54d-35092dd5a707
