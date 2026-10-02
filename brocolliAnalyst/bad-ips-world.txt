@@ -1,17 +1,17 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-02 22:53:44 UTC  by panos_to_scm v1.10.34
+# Generated: 2026-10-02 23:23:53 UTC  by panos_to_scm v1.10.34
 # Entries: 5031
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
-104.194.142.106/32 # United States — AS198983 TornadoDatacenter — 132 hit(s) — src:c2768dd1-b208-4a59-bfba-097389f26f76
+104.194.142.106/32 # United States — AS198983 TornadoDatacenter — 136 hit(s) — src:c2768dd1-b208-4a59-bfba-097389f26f76
 103.251.26.93/32 # United States — AS203020 HostRoyale — 24 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 167.148.201.176/32 # United States — AS135392 MILLENIALHOSTLIMITED-AS-GB — 18 hit(s) — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 31.77.251.24/32 # France — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 31.77.251.22/32 # France — 36 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 146.70.187.65/32 # United States — AS9009 M247 — 18 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-31.77.251.23/32 # France — 834 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.124/32 # Germany — AS202831 PACKETLOSS — 4310 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-31.77.251.21/32 # France — 6681 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.23/32 # France — 844 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.124/32 # Germany — AS202831 PACKETLOSS — 4353 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.21/32 # France — 6747 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 23.234.115.57/32 # United States — AS11878 TZULO — 21 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.112.219/32 # United States — AS11878 TZULO — 24 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.107.101/32 # United States — AS11878 TZULO — 24 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -40,17 +40,17 @@
 146.70.187.232/32 # United States — AS9009 M247 — 3 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.160.24.194/32 # United States — AS30671 DATABRIDGE — 44 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.63/32 # United States — AS17243 BYTENODE-AS — 44 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 807 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-144.31.34.107/32 # Germany — AS202831 PACKETLOSS — 7023 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.112/32 # Germany — AS202831 PACKETLOSS — 7138 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.110/32 # Germany — AS202831 PACKETLOSS — 7159 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.109/32 # Germany — AS202831 PACKETLOSS — 7040 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.105/32 # Germany — AS202831 PACKETLOSS — 7804 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.113/32 # Germany — AS202831 PACKETLOSS — 7762 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.108/32 # Germany — AS202831 PACKETLOSS — 7701 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.111/32 # Germany — AS202831 PACKETLOSS — 7885 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.106/32 # Germany — AS202831 PACKETLOSS — 8374 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.104/32 # Germany — AS202831 PACKETLOSS — 8280 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 812 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+144.31.34.107/32 # Germany — AS202831 PACKETLOSS — 7062 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.112/32 # Germany — AS202831 PACKETLOSS — 7177 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.110/32 # Germany — AS202831 PACKETLOSS — 7202 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.109/32 # Germany — AS202831 PACKETLOSS — 7081 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.105/32 # Germany — AS202831 PACKETLOSS — 7847 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.113/32 # Germany — AS202831 PACKETLOSS — 7806 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.108/32 # Germany — AS202831 PACKETLOSS — 7747 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.111/32 # Germany — AS202831 PACKETLOSS — 7931 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.106/32 # Germany — AS202831 PACKETLOSS — 8423 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.104/32 # Germany — AS202831 PACKETLOSS — 8328 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 62.101.160.194/32 # The Netherlands — AS203020 HostRoyale — 36 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.82.103/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.114.183/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
