@@ -1,8 +1,11 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-09 15:52:27 UTC  by panos_to_scm v1.13.0
-# Entries: 5050
+# Generated: 2026-10-09 16:22:34 UTC  by panos_to_scm v1.13.0
+# Entries: 5053
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+34.34.109.114/32 # Netherlands — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+34.50.176.5/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+207.246.110.112/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 50.116.72.42/32 # United States — AS19871 NETWORK-SOLUTIONS-HOSTING — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 35.185.188.70/32 # Singapore — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 213.225.239.181/32 # France — AS200435 AS_DTHTDC — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
