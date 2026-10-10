@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-10 11:58:25 UTC  by panos_to_scm v1.13.0
+# Generated: 2026-10-10 12:28:42 UTC  by panos_to_scm v1.13.0
 # Entries: 5067
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -32,22 +32,22 @@
 136.67.21.209/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 34.7.237.40/32 # Netherlands — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 45.77.164.53/32 # United States — AS20473 AS-VULTR — 84 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
-80.64.216.185/32 # United Kingdom — AS209243 quickhostuk — 27 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+80.64.216.185/32 # United Kingdom — AS209243 quickhostuk — 30 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 144.202.13.88/32 # United States — AS20473 AS-VULTR — 104 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 54 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 37.189.108.133/32 # Portugal — AS3243 MEO-RESIDENCIAL — 162 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-146.103.40.197/32 # Germany — AS215311 REGXA-CLOUD — 54 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+146.103.40.197/32 # Germany — AS215311 REGXA-CLOUD — 57 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 109.104.134.211/32 # The Netherlands — AS203020 HostRoyale — 3 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 169.150.196.27/32 # The Netherlands — AS212238 CDNEXT — 51 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-104.194.142.106/32 # United States — AS198983 TornadoDatacenter — 2620 hit(s) — src:c2768dd1-b208-4a59-bfba-097389f26f76
+104.194.142.106/32 # United States — AS198983 TornadoDatacenter — 2624 hit(s) — src:c2768dd1-b208-4a59-bfba-097389f26f76
 103.251.26.93/32 # United States — AS203020 HostRoyale — 206 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 167.148.201.176/32 # United States — AS135392 MILLENIALHOSTLIMITED-AS-GB — 126 hit(s) — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-31.77.251.24/32 # Germany — AS202831 PACKETLOSS — 126 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-31.77.251.22/32 # Germany — AS202831 PACKETLOSS — 252 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+31.77.251.24/32 # Germany — AS202831 PACKETLOSS — 129 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+31.77.251.22/32 # Germany — AS202831 PACKETLOSS — 258 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 146.70.187.65/32 # United States — AS9009 M247 — 129 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-31.77.251.23/32 # Germany — AS202831 PACKETLOSS — 5930 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.124/32 # The Netherlands — AS202831 PACKETLOSS — 30692 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-31.77.251.21/32 # Germany — AS202831 PACKETLOSS — 47588 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.23/32 # Germany — AS202831 PACKETLOSS — 5940 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.124/32 # The Netherlands — AS202831 PACKETLOSS — 30819 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.251.21/32 # Germany — AS202831 PACKETLOSS — 47783 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 23.234.115.57/32 # United States — AS11878 TZULO — 126 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.112.219/32 # United States — AS11878 TZULO — 123 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.107.101/32 # United States — AS11878 TZULO — 129 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -76,17 +76,17 @@
 146.70.187.232/32 # United States — AS9009 M247 — 3 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.160.24.194/32 # United States — AS30671 DATABRIDGE — 192 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.159.216.63/32 # United States — AS17243 BYTENODE-AS — 190 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 3531 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-144.31.34.107/32 # The Netherlands — AS202831 PACKETLOSS — 29900 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.112/32 # The Netherlands — AS202831 PACKETLOSS — 30446 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.110/32 # The Netherlands — AS202831 PACKETLOSS — 30480 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.109/32 # The Netherlands — AS202831 PACKETLOSS — 30014 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.105/32 # The Netherlands — AS202831 PACKETLOSS — 33427 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.113/32 # The Netherlands — AS202831 PACKETLOSS — 33144 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.108/32 # The Netherlands — AS202831 PACKETLOSS — 32914 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.111/32 # The Netherlands — AS202831 PACKETLOSS — 33624 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.106/32 # The Netherlands — AS202831 PACKETLOSS — 35780 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-144.31.34.104/32 # The Netherlands — AS202831 PACKETLOSS — 35392 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+193.8.186.7/32 # United Kingdom — AS201002 PebbleHost-Customers — 3536 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+144.31.34.107/32 # The Netherlands — AS202831 PACKETLOSS — 29960 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.112/32 # The Netherlands — AS202831 PACKETLOSS — 30509 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.110/32 # The Netherlands — AS202831 PACKETLOSS — 30537 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.109/32 # The Netherlands — AS202831 PACKETLOSS — 30067 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.105/32 # The Netherlands — AS202831 PACKETLOSS — 33489 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.113/32 # The Netherlands — AS202831 PACKETLOSS — 33209 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.108/32 # The Netherlands — AS202831 PACKETLOSS — 32974 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.111/32 # The Netherlands — AS202831 PACKETLOSS — 33684 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.106/32 # The Netherlands — AS202831 PACKETLOSS — 35843 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+144.31.34.104/32 # The Netherlands — AS202831 PACKETLOSS — 35450 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 62.101.160.194/32 # The Netherlands — AS203020 HostRoyale — 117 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.82.103/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 23.234.114.183/32 # United States — AS11878 TZULO — 6 hit(s) — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
