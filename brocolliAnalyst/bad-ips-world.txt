@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-12 23:21:43 UTC  by panos_to_scm v1.13.0
+# Generated: 2026-10-12 23:51:44 UTC  by panos_to_scm v1.13.0
 # Entries: 5076
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -40,7 +40,7 @@
 185.242.3.85/32 # Germany — AS401626 NETIFACE-TORONTO — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 136.67.21.209/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 34.7.237.40/32 # Netherlands — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
-45.77.164.53/32 # United States — AS20473 AS-VULTR — 285 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
+45.77.164.53/32 # United States — AS20473 AS-VULTR — 300 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
 80.64.216.185/32 # United Kingdom — AS209243 quickhostuk — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 144.202.13.88/32 # United States — AS20473 AS-VULTR — 104 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 87 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
