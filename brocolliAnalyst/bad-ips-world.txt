@@ -1,16 +1,17 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-12 14:18:22 UTC  by panos_to_scm v1.13.0
-# Entries: 5075
+# Generated: 2026-10-12 14:48:50 UTC  by panos_to_scm v1.13.0
+# Entries: 5076
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
-216.252.238.71/32 # The Netherlands — AS40676 AS40676 — 6 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-184.174.96.230/32 # United States — AS16276 OVH — 6 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-83.147.18.193/32 # United Kingdom — AS215311 REGXA-CLOUD — 6 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-5.255.103.131/32 # The Netherlands — AS60404 Liteserver — 6 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-146.103.40.111/32 # Germany — AS215311 REGXA-CLOUD — 12 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-216.252.238.39/32 # The Netherlands — AS40676 AS40676 — 12 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-131.226.2.234/32 # United States — AS965 WEBHOSTINGHOLDINGS — 12 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-131.226.2.240/32 # United States — AS965 WEBHOSTINGHOLDINGS — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.252.238.85/32 # The Netherlands — AS40676 AS40676 — 3 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.252.238.71/32 # The Netherlands — AS40676 AS40676 — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+184.174.96.230/32 # United States — AS16276 OVH — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+83.147.18.193/32 # United Kingdom — AS215311 REGXA-CLOUD — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+5.255.103.131/32 # The Netherlands — AS60404 Liteserver — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+146.103.40.111/32 # Germany — AS215311 REGXA-CLOUD — 16 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.252.238.39/32 # The Netherlands — AS40676 AS40676 — 15 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+131.226.2.234/32 # United States — AS965 WEBHOSTINGHOLDINGS — 15 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+131.226.2.240/32 # United States — AS965 WEBHOSTINGHOLDINGS — 21 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 204.76.203.31/32 # The Netherlands — AS51396 PFCLOUD — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 34.9.104.132/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 172.105.76.7/32 # Germany — AS63949 AKAMAI-LINODE-AP — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
@@ -39,10 +40,10 @@
 185.242.3.85/32 # Germany — AS401626 NETIFACE-TORONTO — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 136.67.21.209/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 34.7.237.40/32 # Netherlands — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
-45.77.164.53/32 # United States — AS20473 AS-VULTR — 264 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
+45.77.164.53/32 # United States — AS20473 AS-VULTR — 267 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
 80.64.216.185/32 # United Kingdom — AS209243 quickhostuk — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 144.202.13.88/32 # United States — AS20473 AS-VULTR — 104 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 81 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 84 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 37.189.108.133/32 # Portugal — AS3243 MEO-RESIDENCIAL — 252 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 146.103.40.197/32 # Germany — AS215311 REGXA-CLOUD — 81 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 109.104.134.211/32 # The Netherlands — AS203020 HostRoyale — 3 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
