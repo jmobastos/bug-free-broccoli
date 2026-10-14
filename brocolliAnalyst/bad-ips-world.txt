@@ -1,14 +1,14 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-14 15:35:46 UTC  by panos_to_scm v1.13.0
+# Generated: 2026-10-14 16:05:51 UTC  by panos_to_scm v1.13.0
 # Entries: 5082
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
 180.131.145.59/32 # United States — AS16276 OVH — 21 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-191.217.250.160/32 # United States — AS401152 ACEDATACENTERS-DCH — 70 hit(s) — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-191.217.250.158/32 # United States — AS401152 ACEDATACENTERS-DCH — 154 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-191.217.250.163/32 # United States — AS401152 ACEDATACENTERS-DCH — 98 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+191.217.250.160/32 # United States — AS401152 ACEDATACENTERS-DCH — 76 hit(s) — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
+191.217.250.158/32 # United States — AS401152 ACEDATACENTERS-DCH — 160 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+191.217.250.163/32 # United States — AS401152 ACEDATACENTERS-DCH — 104 hit(s) — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 191.217.250.159/32 # United States — AS401152 ACEDATACENTERS-DCH — 45 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-191.217.250.157/32 # United States — AS401152 ACEDATACENTERS-DCH — 105 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+191.217.250.157/32 # United States — AS401152 ACEDATACENTERS-DCH — 111 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 216.252.238.85/32 # The Netherlands — AS40676 AS40676 — 30 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 216.252.238.71/32 # The Netherlands — AS40676 AS40676 — 36 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 184.174.96.230/32 # United States — AS16276 OVH — 36 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -46,7 +46,7 @@
 185.242.3.85/32 # Germany — AS401626 NETIFACE-TORONTO — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 136.67.21.209/32 # United States — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 34.7.237.40/32 # Netherlands — AS396982 GOOGLE-CLOUD-PLATFORM — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
-45.77.164.53/32 # United States — AS20473 AS-VULTR — 432 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
+45.77.164.53/32 # United States — AS20473 AS-VULTR — 444 hit(s) — src:16931cde-84da-41b4-b34c-1766a6734bcd
 80.64.216.185/32 # United Kingdom — AS209243 quickhostuk — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 144.202.13.88/32 # United States — AS20473 AS-VULTR — 104 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 83.147.18.129/32 # United Kingdom — AS215311 REGXA-CLOUD — 87 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
