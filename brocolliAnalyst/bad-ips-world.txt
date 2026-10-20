@@ -1,8 +1,11 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-20 08:27:23 UTC  by panos_to_scm v1.13.0
-# Entries: 5213
+# Generated: 2026-10-20 08:57:30 UTC  by panos_to_scm v1.13.0
+# Entries: 5216
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+149.248.47.234/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+66.42.72.14/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+208.83.239.114/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 5.255.126.71/32 # The Netherlands — AS60404 Liteserver — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 131.226.2.24/32 # United States — AS965 WEBHOSTINGHOLDINGS — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 38.154.237.12/32 # United States — AS55286 SERVER-MANIA — 9 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
