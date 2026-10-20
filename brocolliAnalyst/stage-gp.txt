@@ -1,8 +1,9 @@
 # EDL: Stage_GP  (type: ip)
-# Generated: 2026-10-20 06:44:23 UTC  by panos_to_scm v1.13.0
-# Entries: 706
+# Generated: 2026-10-20 12:44:45 UTC  by panos_to_scm v1.13.0
+# Entries: 707
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+66.42.72.14/32 # United States — AS20473 AS-VULTR — 1 hit(s) — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 185.195.233.188/32 # Sweden — AS39351 ESAB-AS — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.37.63.230/32 # Sweden — AS212238 CDNEXT — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 170.62.100.98/32 # Sweden — AS212238 CDNEXT — 3 hit(s) — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
