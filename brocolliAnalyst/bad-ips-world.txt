@@ -1,15 +1,15 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-26 07:18:16 UTC  by panos_to_scm v1.13.0
+# Generated: 2026-10-26 07:48:28 UTC  by panos_to_scm v1.13.0
 # Entries: 5250
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
 193.32.249.164/32 # The Netherlands — AS39351 ESAB-AS — 4 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 135.136.22.206/32 # United Kingdom — AS9009 M247 — 6 hit(s) — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 37.230.62.122/32 # United Kingdom — AS396356 LATITUDE-SH — 18 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-178.16.53.215/32 # The Netherlands — AS202412 OMEGATECH-AS — 176 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-150.241.69.115/32 # Netherlands — AS210644 AEZA-AS — 1995 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-150.241.69.114/32 # Netherlands — AS210644 AEZA-AS — 2568 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-181.41.217.18/32 # United States — AS134677 IDC-AS-AP — 10193 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+178.16.53.215/32 # The Netherlands — AS202412 OMEGATECH-AS — 180 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+150.241.69.115/32 # Netherlands — AS210644 AEZA-AS — 2003 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+150.241.69.114/32 # Netherlands — AS210644 AEZA-AS — 2581 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+181.41.217.18/32 # United States — AS134677 IDC-AS-AP — 10239 hit(s) — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 216.252.238.201/32 # The Netherlands — AS40676 AS40676 — 48 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 209.200.246.82/32 # Canada — AS215311 REGXA-CLOUD — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 162.141.123.67/32 # United States — AS395839 HOSTKEY-USA — 51 hit(s) — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
