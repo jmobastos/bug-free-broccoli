@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-10-31 12:23:40 UTC  by panos_to_scm v2.39.0
+# Generated: 2026-10-31 12:53:43 UTC  by panos_to_scm v2.39.0
 # Entries: 5297
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -21,7 +21,7 @@
 5.255.122.42/32 # The Netherlands — AS60404 Liteserver — 18 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 146.70.117.111/32 # Germany — AS9009 M247 — 4 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 169.150.196.19/32 # The Netherlands — AS212238 CDNEXT — 28 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-217.77.6.127/32 # United States — AS40021 CONTABO-40021 — 112 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+217.77.6.127/32 # United States — AS40021 CONTABO-40021 — 116 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 151.241.171.116/32 # Germany — AS39351 ESAB-AS — 32 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 131.226.2.205/32 # United States — AS965 WEBHOSTINGHOLDINGS — 27 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 84.200.89.157/32 # Germany — AS214036 ULTAHOST-AS — 30 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -34,9 +34,9 @@
 84.200.80.56/32 # Germany — AS214036 ULTAHOST-AS — 36 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 185.65.134.243/32 # The Netherlands — AS39351 ESAB-AS — 56 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 89.106.84.142/32 # United States — AS215030 AspireHosting — 39 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-209.205.228.70/32 # United States — AS11117 NUYEK — 1,393 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-209.205.228.71/32 # United States — AS11117 NUYEK — 1,641 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-201.58.189.142/32 # United States — AS401152 ACEDATACENTERS-DCH — 14,447 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+209.205.228.70/32 # United States — AS11117 NUYEK — 1,400 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+209.205.228.71/32 # United States — AS11117 NUYEK — 1,649 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+201.58.189.142/32 # United States — AS401152 ACEDATACENTERS-DCH — 14,510 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 193.32.249.175/32 # The Netherlands — AS39351 ESAB-AS — 60 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.209.196.145/32 # Germany — AS39351 ESAB-AS — 48 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 193.32.248.167/32 # Germany — AS39351 ESAB-AS — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
@@ -54,9 +54,9 @@
 135.136.22.206/32 # United Kingdom — AS9009 M247 — 112 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 37.230.62.122/32 # United Kingdom — AS396356 LATITUDE-SH — 18 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 178.16.53.215/32 # The Netherlands — AS202412 OMEGATECH-AS — 544 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-150.241.69.115/32 # Netherlands — AS210644 AEZA-AS — 5,752 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-150.241.69.114/32 # Netherlands — AS210644 AEZA-AS — 7,400 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-181.41.217.18/32 # United States — AS134677 IDC-AS-AP — 29,331 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+150.241.69.115/32 # Netherlands — AS210644 AEZA-AS — 5,760 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+150.241.69.114/32 # Netherlands — AS210644 AEZA-AS — 7,413 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+181.41.217.18/32 # United States — AS134677 IDC-AS-AP — 29,377 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 216.252.238.201/32 # The Netherlands — AS40676 AS40676 — 102 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 209.200.246.82/32 # Canada — AS215311 REGXA-CLOUD — 66 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 162.141.123.67/32 # United States — AS395839 HOSTKEY-USA — 90 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
