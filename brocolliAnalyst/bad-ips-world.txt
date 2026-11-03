@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-03 00:51:52 UTC  by panos_to_scm v2.39.7
+# Generated: 2026-11-03 01:21:59 UTC  by panos_to_scm v2.39.7
 # Entries: 5333
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -12,16 +12,16 @@
 169.150.201.52/32 # Germany — AS212238 CDNEXT — 4 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.37.63.97/32 # Sweden — AS212238 CDNEXT — 4 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.37.63.98/32 # Sweden — AS212238 CDNEXT — 4 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-147.78.241.191/32 # Germany — AS43357 OWL — 4 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+147.78.241.191/32 # Germany — AS43357 OWL — 8 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 147.78.241.168/32 # Germany — AS43357 OWL — 8 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 152.233.51.8/32 # Germany — AS212238 CDNEXT — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-169.150.196.33/32 # The Netherlands — AS212238 CDNEXT — 16 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+169.150.196.33/32 # The Netherlands — AS212238 CDNEXT — 20 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 45.66.219.56/32 # United Kingdom — AS43357 OWL — 8 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 152.233.51.55/32 # Germany — AS212238 CDNEXT — 14 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-93.88.206.48/32 # Poland — AS202831 PACKETLOSS — 1,697 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-93.88.206.49/32 # Poland — AS202831 PACKETLOSS — 1,744 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-89.106.84.240/32 # United States — AS215030 AspireHosting — 164 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.26.229.96/32 # Germany — AS215439 PLAY2GO-NET — 1,728 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.88.206.48/32 # Poland — AS202831 PACKETLOSS — 2,101 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+93.88.206.49/32 # Poland — AS202831 PACKETLOSS — 2,157 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+89.106.84.240/32 # United States — AS215030 AspireHosting — 207 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.26.229.96/32 # Germany — AS215439 PLAY2GO-NET — 2,251 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 169.150.196.10/32 # The Netherlands — AS212238 CDNEXT — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 151.241.171.106/32 # Germany — AS39351 ESAB-AS — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 147.78.241.170/32 # Germany — AS43357 OWL — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -57,7 +57,7 @@
 5.255.122.42/32 # The Netherlands — AS60404 Liteserver — 54 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 146.70.117.111/32 # Germany — AS9009 M247 — 4 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 169.150.196.19/32 # The Netherlands — AS212238 CDNEXT — 76 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-217.77.6.127/32 # United States — AS40021 CONTABO-40021 — 304 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+217.77.6.127/32 # United States — AS40021 CONTABO-40021 — 316 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 151.241.171.116/32 # Germany — AS39351 ESAB-AS — 80 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 131.226.2.205/32 # United States — AS965 WEBHOSTINGHOLDINGS — 63 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 84.200.89.157/32 # Germany — AS214036 ULTAHOST-AS — 66 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -70,17 +70,17 @@
 84.200.80.56/32 # Germany — AS214036 ULTAHOST-AS — 72 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 185.65.134.243/32 # The Netherlands — AS39351 ESAB-AS — 104 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 89.106.84.142/32 # United States — AS215030 AspireHosting — 75 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-209.205.228.70/32 # United States — AS11117 NUYEK — 2,569 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-209.205.228.71/32 # United States — AS11117 NUYEK — 3,009 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-201.58.189.142/32 # Poland — AS219337 PLAY2GO — 26,507 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+209.205.228.70/32 # United States — AS11117 NUYEK — 2,626 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+209.205.228.71/32 # United States — AS11117 NUYEK — 3,077 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+201.58.189.142/32 # Poland — AS219337 PLAY2GO — 27,072 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 193.32.249.175/32 # The Netherlands — AS39351 ESAB-AS — 108 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.209.196.145/32 # Germany — AS39351 ESAB-AS — 48 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 193.32.248.167/32 # Germany — AS39351 ESAB-AS — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 89.37.63.117/32 # Sweden — AS212238 CDNEXT — 64 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 84.200.91.177/32 # Germany — AS214036 ULTAHOST-AS — 118 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-94.26.0.168/32 # Germany — AS135388 RPL-HK — 6,376 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-96.62.71.154/32 # United States — AS207043 DEDIK-IO — 1,734 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-45.141.235.46/32 # The Netherlands — AS207043 DEDIK-IO — 5,168 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+94.26.0.168/32 # Germany — AS135388 RPL-HK — 6,568 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+96.62.71.154/32 # United States — AS207043 DEDIK-IO — 1,785 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+45.141.235.46/32 # The Netherlands — AS207043 DEDIK-IO — 5,320 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 147.78.241.54/32 # Germany — AS43357 OWL — 8 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 169.150.201.59/32 # Germany — AS212238 CDNEXT — 52 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.135/32 # United Kingdom — AS39351 ESAB-AS — 140 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
