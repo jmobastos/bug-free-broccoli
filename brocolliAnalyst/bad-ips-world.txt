@@ -1,39 +1,39 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-10 08:12:39 UTC  by panos_to_scm v2.39.7
+# Generated: 2026-11-10 08:42:51 UTC  by panos_to_scm v2.39.7
 # Entries: 5606
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
 152.233.51.80/32 # Germany — AS212238 CDNEXT — 4 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 194.36.27.27/32 # Netherlands — AS43357 OWL — 8 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-173.249.254.188/32 # United States — AS11878 TZULO — 16 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.73.238/32 # United States — AS11878 TZULO — 24 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-62.101.160.216/32 # The Netherlands — AS203020 HostRoyale — 20 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+173.249.254.188/32 # United States — AS11878 TZULO — 20 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.73.238/32 # United States — AS11878 TZULO — 30 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+62.101.160.216/32 # The Netherlands — AS203020 HostRoyale — 24 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 170.62.100.251/32 # Sweden — AS212238 CDNEXT — 24 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.121/32 # Netherlands — AS43357 OWL — 24 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+194.36.27.121/32 # Netherlands — AS43357 OWL — 28 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 45.59.114.222/32 # Switzerland — AS14956 ROUTERHOSTING — 21 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-146.70.171.82/32 # United States — AS9009 M247 — 28 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+146.70.171.82/32 # United States — AS9009 M247 — 32 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 147.78.241.70/32 # Germany — AS43357 OWL — 32 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 146.70.117.123/32 # Germany — AS9009 M247 — 40 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.83.208/32 # United States — AS11878 TZULO — 40 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 151.241.171.199/32 # Germany — AS39351 ESAB-AS — 40 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 103.251.26.47/32 # United States — AS203020 HostRoyale — 40 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.79.66/32 # United States — AS11878 TZULO — 80 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-23.234.78.66/32 # United States — AS11878 TZULO — 40 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.101.90/32 # United States — AS11878 TZULO — 80 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.74.37/32 # United States — AS11878 TZULO — 40 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.92.221/32 # United States — AS11878 TZULO — 40 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.107.229/32 # United States — AS11878 TZULO — 40 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-23.234.80.232/32 # United States — AS11878 TZULO — 60 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.78.66/32 # United States — AS11878 TZULO — 44 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.101.90/32 # United States — AS11878 TZULO — 84 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.74.37/32 # United States — AS11878 TZULO — 44 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.92.221/32 # United States — AS11878 TZULO — 44 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.107.229/32 # United States — AS11878 TZULO — 44 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+23.234.80.232/32 # United States — AS11878 TZULO — 66 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 170.168.240.195/32 # Germany — AS59651 AS-QualityNetwork — 33 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-155.212.39.116/32 # Germany — AS43444 BNS-AS — 33 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-155.212.39.147/32 # Germany — AS43444 BNS-AS — 33 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+155.212.39.116/32 # Germany — AS43444 BNS-AS — 36 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+155.212.39.147/32 # Germany — AS43444 BNS-AS — 36 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 193.31.126.60/32 # France — AS46475 LIMESTONENETWORKS — 36 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.197/32 # United Kingdom — AS39351 ESAB-AS — 48 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 68.235.46.59/32 # United States — AS11878 TZULO — 48 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 147.78.241.215/32 # Germany — AS43357 OWL — 48 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 130.49.114.23/32 # France — AS35830 BTTGROUP-AS — 36 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-141.98.252.162/32 # United Kingdom — AS39351 ESAB-AS — 48 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-68.235.46.169/32 # United States — AS11878 TZULO — 72 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+141.98.252.162/32 # United Kingdom — AS39351 ESAB-AS — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+68.235.46.169/32 # United States — AS11878 TZULO — 78 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 130.94.65.146/32 # Japan — AS154177 LIGHT4-AS-AP — 12,985 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 23.234.78.235/32 # United States — AS11878 TZULO — 52 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.193/32 # United Kingdom — AS39351 ESAB-AS — 52 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -41,15 +41,15 @@
 135.136.22.191/32 # United Kingdom — AS9009 M247 — 52 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 170.168.240.193/32 # Germany — AS59651 AS-QualityNetwork — 39 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 193.151.188.143/32 # United States — AS35830 BTTGROUP-AS — 39 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-170.168.99.103/32 # Germany — AS59651 AS-QualityNetwork — 39 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-130.49.113.125/32 # Germany — AS35830 BTTGROUP-AS — 39 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-157.22.124.136/32 # United Kingdom — AS213954 GTS-AS — 39 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-89.19.35.103/32 # United States — AS35830 BTTGROUP-AS — 39 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-135.136.19.229/32 # Germany — AS9009 M247 — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-103.251.27.72/32 # United States — AS203020 HostRoyale — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-80.66.197.121/32 # Germany — AS43357 OWL — 104 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-135.136.21.117/32 # United Kingdom — AS9009 M247 — 52 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-130.49.114.146/32 # France — AS35830 BTTGROUP-AS — 81 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+170.168.99.103/32 # Germany — AS59651 AS-QualityNetwork — 42 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+130.49.113.125/32 # Germany — AS35830 BTTGROUP-AS — 42 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+157.22.124.136/32 # United Kingdom — AS213954 GTS-AS — 42 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+89.19.35.103/32 # United States — AS35830 BTTGROUP-AS — 42 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+135.136.19.229/32 # Germany — AS9009 M247 — 56 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+103.251.27.72/32 # United States — AS203020 HostRoyale — 56 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+80.66.197.121/32 # Germany — AS43357 OWL — 108 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+135.136.21.117/32 # United Kingdom — AS9009 M247 — 56 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+130.49.114.146/32 # France — AS35830 BTTGROUP-AS — 84 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 130.49.114.159/32 # France — AS35830 BTTGROUP-AS — 42 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 170.168.240.169/32 # Germany — AS59651 AS-QualityNetwork — 6 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 135.136.19.46/32 # Germany — AS9009 M247 — 56 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -69,10 +69,10 @@
 146.19.44.166/32 # France — AS46475 LIMESTONENETWORKS — 42 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 170.168.240.206/32 # Germany — AS59651 AS-QualityNetwork — 99 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 130.49.114.46/32 # France — AS35830 BTTGROUP-AS — 42 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-130.49.113.112/32 # Germany — AS35830 BTTGROUP-AS — 42 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-170.168.243.154/32 # Germany — AS59651 AS-QualityNetwork — 42 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
-193.31.126.108/32 # France — AS46475 LIMESTONENETWORKS — 42 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-130.49.77.237/32 # France — AS35830 BTTGROUP-AS — 56 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+130.49.113.112/32 # Germany — AS35830 BTTGROUP-AS — 45 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.243.154/32 # Germany — AS59651 AS-QualityNetwork — 45 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+193.31.126.108/32 # France — AS46475 LIMESTONENETWORKS — 45 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+130.49.77.237/32 # France — AS35830 BTTGROUP-AS — 60 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 170.168.240.106/32 # Germany — AS59651 AS-QualityNetwork — 57 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 83.100.218.72/32 # United Kingdom — AS12390 KINGSTON-UK-AS — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.96.171/32 # United States — AS11878 TZULO — 60 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -86,10 +86,10 @@
 170.168.240.100/32 # Germany — AS59651 AS-QualityNetwork — 45 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 194.99.24.56/32 # France — AS46475 LIMESTONENETWORKS — 45 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 130.49.114.139/32 # France — AS35830 BTTGROUP-AS — 84 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-170.168.243.165/32 # Germany — AS59651 AS-QualityNetwork — 63 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-170.168.240.64/32 # Germany — AS59651 AS-QualityNetwork — 45 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-151.241.171.172/32 # Germany — AS39351 ESAB-AS — 90 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-130.49.114.80/32 # France — AS35830 BTTGROUP-AS — 45 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+170.168.243.165/32 # Germany — AS59651 AS-QualityNetwork — 66 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+170.168.240.64/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+151.241.171.172/32 # Germany — AS39351 ESAB-AS — 96 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+130.49.114.80/32 # France — AS35830 BTTGROUP-AS — 48 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 130.49.114.242/32 # France — AS35830 BTTGROUP-AS — 9 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 130.49.114.90/32 # France — AS35830 BTTGROUP-AS — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 170.168.243.149/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
@@ -99,15 +99,15 @@
 170.168.240.223/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 194.99.26.191/32 # France — AS46475 LIMESTONENETWORKS — 48 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 5.255.117.59/32 # The Netherlands — AS60404 Liteserver — 3 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-155.212.39.105/32 # Germany — AS43444 BNS-AS — 64 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-170.168.243.221/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
-157.22.124.211/32 # United Kingdom — AS213954 GTS-AS — 48 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-170.168.243.220/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-170.168.243.175/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-170.168.99.151/32 # Germany — AS59651 AS-QualityNetwork — 48 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-169.150.211.156/32 # Germany — AS212238 CDNEXT — 128 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-173.249.255.167/32 # United States — AS11878 TZULO — 64 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-157.22.124.128/32 # United Kingdom — AS213954 GTS-AS — 48 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+155.212.39.105/32 # Germany — AS43444 BNS-AS — 68 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.243.221/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+157.22.124.211/32 # United Kingdom — AS213954 GTS-AS — 51 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+170.168.243.220/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+170.168.243.175/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+170.168.99.151/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+169.150.211.156/32 # Germany — AS212238 CDNEXT — 132 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+173.249.255.167/32 # United States — AS11878 TZULO — 68 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+157.22.124.128/32 # United Kingdom — AS213954 GTS-AS — 51 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 155.212.39.112/32 # Germany — AS43444 BNS-AS — 51 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 146.70.117.86/32 # Germany — AS9009 M247 — 68 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 146.70.119.94/32 # United Kingdom — AS9009 M247 — 12 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -118,20 +118,20 @@
 170.168.240.131/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 170.168.241.123/32 # France — AS59651 AS-QualityNetwork — 51 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 130.49.113.169/32 # Germany — AS35830 BTTGROUP-AS — 51 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-130.49.113.136/32 # Germany — AS35830 BTTGROUP-AS — 51 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-170.168.243.87/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-170.168.243.210/32 # Germany — AS59651 AS-QualityNetwork — 51 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+130.49.113.136/32 # Germany — AS35830 BTTGROUP-AS — 54 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.243.87/32 # Germany — AS59651 AS-QualityNetwork — 54 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+170.168.243.210/32 # Germany — AS59651 AS-QualityNetwork — 54 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 170.168.243.133/32 # Germany — AS59651 AS-QualityNetwork — 54 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 157.22.124.243/32 # United Kingdom — AS213954 GTS-AS — 24 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 130.49.114.129/32 # France — AS35830 BTTGROUP-AS — 15 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.73.226/32 # United States — AS11878 TZULO — 106 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.93.247/32 # United States — AS11878 TZULO — 72 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 130.49.113.192/32 # Germany — AS35830 BTTGROUP-AS — 54 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-88.218.44.22/32 # United States — AS43444 BNS-AS — 54 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-170.168.240.110/32 # Germany — AS59651 AS-QualityNetwork — 54 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
-185.202.108.190/32 # France — AS46475 LIMESTONENETWORKS — 54 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-157.22.124.199/32 # United Kingdom — AS213954 GTS-AS — 54 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-170.168.99.69/32 # Germany — AS59651 AS-QualityNetwork — 72 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+88.218.44.22/32 # United States — AS43444 BNS-AS — 57 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.240.110/32 # Germany — AS59651 AS-QualityNetwork — 57 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+185.202.108.190/32 # France — AS46475 LIMESTONENETWORKS — 57 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+157.22.124.199/32 # United Kingdom — AS213954 GTS-AS — 57 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+170.168.99.69/32 # Germany — AS59651 AS-QualityNetwork — 76 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 88.218.47.42/32 # Germany — AS46475 LIMESTONENETWORKS — 57 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 37.120.133.245/32 # United Kingdom — AS9009 M247 — 76 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 135.136.21.99/32 # United Kingdom — AS9009 M247 — 76 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -142,15 +142,15 @@
 130.49.114.112/32 # France — AS35830 BTTGROUP-AS — 57 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 193.151.189.94/32 # France — AS46475 LIMESTONENETWORKS — 57 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 130.49.114.27/32 # France — AS35830 BTTGROUP-AS — 57 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-130.49.113.165/32 # Germany — AS35830 BTTGROUP-AS — 57 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-170.168.243.226/32 # Germany — AS59651 AS-QualityNetwork — 57 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-185.213.155.225/32 # Germany — AS39351 ESAB-AS — 76 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-170.168.243.108/32 # Germany — AS59651 AS-QualityNetwork — 57 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+130.49.113.165/32 # Germany — AS35830 BTTGROUP-AS — 60 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.243.226/32 # Germany — AS59651 AS-QualityNetwork — 60 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+185.213.155.225/32 # Germany — AS39351 ESAB-AS — 80 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
+170.168.243.108/32 # Germany — AS59651 AS-QualityNetwork — 60 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 170.168.240.91/32 # Germany — AS59651 AS-QualityNetwork — 30 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 169.150.196.38/32 # The Netherlands — AS212238 CDNEXT — 32 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 130.49.113.138/32 # Germany — AS35830 BTTGROUP-AS — 60 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-170.168.241.129/32 # France — AS59651 AS-QualityNetwork — 60 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-155.212.39.114/32 # Germany — AS43444 BNS-AS — 60 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+170.168.241.129/32 # France — AS59651 AS-QualityNetwork — 63 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+155.212.39.114/32 # Germany — AS43444 BNS-AS — 63 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 173.249.254.68/32 # United States — AS11878 TZULO — 48 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 31.77.248.61/32 # Finland — AS218731 Andris-Jakovlevs — 3,402 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 132.243.221.84/32 # The Netherlands — AS218731 Andris-Jakovlevs — 1,869 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
@@ -159,48 +159,48 @@
 163.245.52.219/32 # Estonia — AS218731 Andris-Jakovlevs — 3,948 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 155.212.39.165/32 # Germany — AS43444 BNS-AS — 63 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 89.125.37.59/32 # Sweden — AS218731 Andris-Jakovlevs — 7,056 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-31.77.219.210/32 # Germany — AS218731 Andris-Jakovlevs — 15,414 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-45.61.183.98/32 # United States — AS14956 ROUTERHOSTING — 504 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-45.59.114.216/32 # Switzerland — AS14956 ROUTERHOSTING — 504 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-45.59.114.225/32 # Switzerland — AS14956 ROUTERHOSTING — 504 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-163.245.52.226/32 # Estonia — AS218731 Andris-Jakovlevs — 3,717 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+31.77.219.210/32 # Germany — AS218731 Andris-Jakovlevs — 15,805 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+45.61.183.98/32 # United States — AS14956 ROUTERHOSTING — 528 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+45.59.114.216/32 # Switzerland — AS14956 ROUTERHOSTING — 528 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+45.59.114.225/32 # Switzerland — AS14956 ROUTERHOSTING — 528 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+163.245.52.226/32 # Estonia — AS218731 Andris-Jakovlevs — 3,894 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 132.243.221.92/32 # The Netherlands — AS218731 Andris-Jakovlevs — 718 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 45.61.177.118/32 # United States — AS14956 ROUTERHOSTING — 216 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-172.86.85.53/32 # United States — AS14956 ROUTERHOSTING — 1,473 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+172.86.85.53/32 # United States — AS14956 ROUTERHOSTING — 1,523 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 170.168.243.168/32 # Germany — AS59651 AS-QualityNetwork — 66 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 170.168.243.17/32 # Germany — AS59651 AS-QualityNetwork — 66 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 31.77.248.91/32 # Finland — AS218731 Andris-Jakovlevs — 1,012 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-31.77.220.223/32 # Germany — AS218731 Andris-Jakovlevs — 34,150 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.77.220.223/32 # Germany — AS218731 Andris-Jakovlevs — 34,815 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 181.118.50.7/32 # Trinidad and Tobago — AS27800 Digicel Trinidad and Tobago Ltd. — 9 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 130.49.114.83/32 # France — AS35830 BTTGROUP-AS — 66 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-172.86.85.67/32 # United States — AS14956 ROUTERHOSTING — 528 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-170.168.99.167/32 # Germany — AS59651 AS-QualityNetwork — 66 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-157.22.124.188/32 # United Kingdom — AS213954 GTS-AS — 66 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+172.86.85.67/32 # United States — AS14956 ROUTERHOSTING — 552 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
+170.168.99.167/32 # Germany — AS59651 AS-QualityNetwork — 69 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+157.22.124.188/32 # United Kingdom — AS213954 GTS-AS — 69 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.85.47/32 # United States — AS14956 ROUTERHOSTING — 552 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 37.120.133.195/32 # United Kingdom — AS9009 M247 — 40 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-157.22.124.83/32 # United Kingdom — AS213954 GTS-AS — 69 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-132.243.231.157/32 # Sweden — AS218731 Andris-Jakovlevs — 36,454 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+157.22.124.83/32 # United Kingdom — AS213954 GTS-AS — 72 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+132.243.231.157/32 # Sweden — AS218731 Andris-Jakovlevs — 37,126 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 177.242.5.126/32 # Mexico — AS13999 Mega Cable, S.A. de C.V. — 3 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 180.73.213.91/32 # Malaysia — AS4788 TTSSB-MY — 3 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 155.212.39.75/32 # Germany — AS43444 BNS-AS — 72 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-130.49.113.69/32 # Germany — AS35830 BTTGROUP-AS — 72 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-172.86.85.51/32 # United States — AS14956 ROUTERHOSTING — 576 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+130.49.113.69/32 # Germany — AS35830 BTTGROUP-AS — 75 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+172.86.85.51/32 # United States — AS14956 ROUTERHOSTING — 600 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 188.163.7.154/32 # Ukraine — AS15895 KSNET-AS — 3 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 38.64.19.1/32 # United States — AS400164 RIPPLEFIBER-ASN-01 — 3 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 169.150.196.36/32 # The Netherlands — AS212238 CDNEXT — 32 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 169.150.196.25/32 # The Netherlands — AS212238 CDNEXT — 48 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-31.207.7.141/32 # Sweden — AS218731 Andris-Jakovlevs — 53,910 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+31.207.7.141/32 # Sweden — AS218731 Andris-Jakovlevs — 55,412 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 151.241.171.92/32 # Germany — AS39351 ESAB-AS — 4 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.184.222.62/32 # The Netherlands — AS43357 OWL — 20 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 132.243.231.153/32 # Sweden — AS218731 Andris-Jakovlevs — 4,623 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 31.77.168.33/32 # Germany — AS218731 Andris-Jakovlevs — 3,378 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 132.243.231.152/32 # Sweden — AS218731 Andris-Jakovlevs — 15,680 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-132.243.221.87/32 # The Netherlands — AS218731 Andris-Jakovlevs — 29,097 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+132.243.221.87/32 # The Netherlands — AS218731 Andris-Jakovlevs — 29,943 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 78.40.209.229/32 # Finland — AS218731 Andris-Jakovlevs — 8,701 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 150.241.93.0/32 # France — AS210644 AEZA-AS — 362 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
 190.84.88.131/32 # Colombia — AS10620 Telmex Colombia S.A. — 3 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-132.243.221.98/32 # The Netherlands — AS218731 Andris-Jakovlevs — 9,388 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-78.40.209.109/32 # Finland — AS218731 Andris-Jakovlevs — 7,929 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+132.243.221.98/32 # The Netherlands — AS218731 Andris-Jakovlevs — 9,752 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+78.40.209.109/32 # Finland — AS218731 Andris-Jakovlevs — 8,217 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 141.98.252.156/32 # United Kingdom — AS39351 ESAB-AS — 4 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 176.119.150.156/32 # Germany — AS43357 OWL — 4 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.65.135.252/32 # Sweden — AS39351 ESAB-AS — 7 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -228,7 +228,7 @@
 152.233.51.46/32 # Germany — AS212238 CDNEXT — 8 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 135.136.19.231/32 # Germany — AS9009 M247 — 18 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.206/32 # United Kingdom — AS39351 ESAB-AS — 22 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-45.61.177.50/32 # United States — AS14956 ROUTERHOSTING — 2,262 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+45.61.177.50/32 # United States — AS14956 ROUTERHOSTING — 2,340 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 89.37.63.181/32 # Sweden — AS212238 CDNEXT — 16 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 141.98.255.184/32 # Sweden — AS39351 ESAB-AS — 16 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 193.32.249.160/32 # The Netherlands — AS39351 ESAB-AS — 24 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -271,7 +271,7 @@
 151.241.171.153/32 # Germany — AS39351 ESAB-AS — 42 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 176.119.150.149/32 # Germany — AS43357 OWL — 56 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.65.134.247/32 # The Netherlands — AS39351 ESAB-AS — 70 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-95.179.228.122/32 # United Kingdom — AS20473 AS-VULTR — 132 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+95.179.228.122/32 # United Kingdom — AS20473 AS-VULTR — 136 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 31.57.184.222/32 # United States — AS197769 VPSDEDICATED-AS — 417 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 31.57.184.221/32 # United States — AS197769 VPSDEDICATED-AS — 542 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 147.78.241.5/32 # Germany — AS43357 OWL — 36 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
@@ -291,10 +291,10 @@
 169.150.196.33/32 # The Netherlands — AS212238 CDNEXT — 74 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 45.66.219.56/32 # United Kingdom — AS43357 OWL — 8 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 152.233.51.55/32 # Germany — AS212238 CDNEXT — 22 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-93.88.206.48/32 # Poland — AS202831 PACKETLOSS — 19,252 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-93.88.206.49/32 # Poland — AS202831 PACKETLOSS — 19,690 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
-89.106.84.240/32 # United States — AS215030 AspireHosting — 1,608 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.26.229.96/32 # Germany — AS215439 PLAY2GO-NET — 19,144 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.88.206.48/32 # Poland — AS202831 PACKETLOSS — 19,386 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+93.88.206.49/32 # Poland — AS202831 PACKETLOSS — 19,825 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
+89.106.84.240/32 # United States — AS215030 AspireHosting — 1,618 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.26.229.96/32 # Germany — AS215439 PLAY2GO-NET — 19,302 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 169.150.196.10/32 # The Netherlands — AS212238 CDNEXT — 44 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 151.241.171.106/32 # Germany — AS39351 ESAB-AS — 44 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 147.78.241.170/32 # Germany — AS43357 OWL — 44 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
