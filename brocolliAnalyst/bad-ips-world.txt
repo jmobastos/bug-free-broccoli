@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-14 06:47:38 UTC  by Stratacoli 2.60.0
+# Generated: 2026-11-14 07:17:55 UTC  by Stratacoli 2.60.0
 # Entries: 5698
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -7,7 +7,7 @@
 45.61.177.178/32 # United States — AS14956 ROUTERHOSTING — 10 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 45.61.177.104/32 # United States — AS14956 ROUTERHOSTING — 10 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 45.61.162.176/32 # United States — AS14956 ROUTERHOSTING — 10 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-45.61.178.169/32 # United States — AS14956 ROUTERHOSTING — 10 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+45.61.178.169/32 # United States — AS14956 ROUTERHOSTING — 20 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 150.251.114.53/32 # Poland — AS215311 REGXA-CLOUD — 6 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 84.200.80.98/32 # Germany — AS214036 ULTAHOST-AS — 6 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 84.200.87.201/32 # Germany — AS214036 ULTAHOST-AS — 6 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
@@ -126,7 +126,7 @@
 130.49.114.23/32 # France — AS35830 BTTGROUP-AS — 60 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 141.98.252.162/32 # United Kingdom — AS39351 ESAB-AS — 124 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 68.235.46.169/32 # United States — AS11878 TZULO — 186 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-130.94.65.146/32 # Japan — AS154177 LIGHT4-AS-AP — 30,925 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+130.94.65.146/32 # Japan — AS154177 LIGHT4-AS-AP — 31,909 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 23.234.78.235/32 # United States — AS11878 TZULO — 128 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.193/32 # United Kingdom — AS39351 ESAB-AS — 128 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 185.195.232.178/32 # United Kingdom — AS39351 ESAB-AS — 84 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
