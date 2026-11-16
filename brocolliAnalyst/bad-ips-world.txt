@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-16 11:46:21 UTC  by Stratacoli 2.60.0
+# Generated: 2026-11-16 12:16:42 UTC  by Stratacoli 2.60.0
 # Entries: 5739
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
