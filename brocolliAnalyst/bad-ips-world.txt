@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-17 16:31:18 UTC  by Stratacoli 2.60.0
+# Generated: 2026-11-17 17:01:51 UTC  by Stratacoli 2.60.0
 # Entries: 5803
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -67,7 +67,7 @@
 209.99.185.133/32 # Switzerland — AS402253 SKN-NETWORK-1 — 106 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 72.244.47.77/32 # United States — AS212238 CDNEXT — 36 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 74.0.102.4/32 # United States — AS212238 CDNEXT — 36 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-95.92.65.118/32 # Portugal — AS2860 NOS_COMUNICACOES — 48 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+95.92.65.118/32 # Portugal — AS2860 NOS_COMUNICACOES — 56 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 198.251.85.238/32 # Australia — AS14956 ROUTERHOSTING — 140 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 45.61.177.90/32 # United States — AS14956 ROUTERHOSTING — 70 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 45.61.177.117/32 # United States — AS14956 ROUTERHOSTING — 70 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
@@ -105,7 +105,7 @@
 84.200.89.19/32 # Germany — AS214036 ULTAHOST-AS — 42 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 45.61.177.93/32 # United States — AS14956 ROUTERHOSTING — 42 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 5.255.120.182/32 # The Netherlands — AS60404 Liteserver — 48 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-93.152.211.28/32 # The Netherlands — AS25211 EuroCrypt-AS — 1,092 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+93.152.211.28/32 # The Netherlands — AS25211 EuroCrypt-AS — 1,098 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 198.251.85.165/32 # Australia — AS14956 ROUTERHOSTING — 30 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 153.75.87.172/32 # The Netherlands — AS14956 ROUTERHOSTING — 340 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 172.86.85.52/32 # United States — AS14956 ROUTERHOSTING — 180 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
@@ -119,59 +119,59 @@
 150.251.114.59/32 # Poland — AS215311 REGXA-CLOUD — 63 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 84.200.89.31/32 # Germany — AS214036 ULTAHOST-AS — 72 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 93.152.206.227/32 # The Netherlands — AS207043 DEDIK-IO — 2,448 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-93.152.211.44/32 # The Netherlands — AS25211 EuroCrypt-AS — 3,916 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.152.211.44/32 # The Netherlands — AS25211 EuroCrypt-AS — 3,934 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 93.152.206.194/32 # The Netherlands — AS207043 DEDIK-IO — 4,076 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 170.168.240.221/32 # Germany — AS59651 AS-QualityNetwork — 81 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
 96.62.218.229/32 # United States — AS207043 DEDIK-IO — 922 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 96.62.218.230/32 # United States — AS207043 DEDIK-IO — 922 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 194.99.27.124/32 # Finland — AS43444 BNS-AS — 75 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-94.26.83.79/32 # Germany — AS207043 DEDIK-IO — 1,380 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.209/32 # Germany — AS207043 DEDIK-IO — 3,617 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-85.11.161.140/32 # Hong Kong — AS207043 DEDIK-IO — 5,174 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.41.221/32 # Germany — AS207043 DEDIK-IO — 3,460 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.89/32 # United States — AS207043 DEDIK-IO — 3,979 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.90/32 # Germany — AS207043 DEDIK-IO — 3,936 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.90/32 # United States — AS207043 DEDIK-IO — 4,004 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.84/32 # United States — AS207043 DEDIK-IO — 4,122 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.87/32 # United States — AS207043 DEDIK-IO — 4,074 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.208/32 # Germany — AS207043 DEDIK-IO — 3,830 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.93/32 # United States — AS207043 DEDIK-IO — 4,622 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.156/32 # United States — AS207043 DEDIK-IO — 3,898 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.146/32 # United States — AS207043 DEDIK-IO — 4,268 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-173.231.47.238/32 # United States — AS18450 WEBNX — 4,452 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.86/32 # United States — AS207043 DEDIK-IO — 4,100 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.88/32 # United States — AS207043 DEDIK-IO — 4,013 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.85/32 # United States — AS207043 DEDIK-IO — 4,066 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.149/32 # United States — AS207043 DEDIK-IO — 4,127 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.78/32 # United States — AS207043 DEDIK-IO — 4,093 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-23.94.252.141/32 # United States — AS207043 DEDIK-IO — 4,404 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.91/32 # United States — AS207043 DEDIK-IO — 4,716 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.87/32 # Germany — AS207043 DEDIK-IO — 4,170 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.0.149/32 # Germany — AS135388 RPL-HK — 4,574 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-216.158.95.179/32 # United States — AS18450 WEBNX — 5,354 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-23.94.145.88/32 # United States — AS207043 DEDIK-IO — 4,428 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.157/32 # United States — AS207043 DEDIK-IO — 5,932 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.153/32 # United States — AS207043 DEDIK-IO — 6,070 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.10/32 # United States — AS18450 WEBNX — 5,796 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.155/32 # United States — AS207043 DEDIK-IO — 6,119 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.35/32 # United States — AS18450 WEBNX — 5,486 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.47/32 # United States — AS18450 WEBNX — 6,214 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.45/32 # United States — AS18450 WEBNX — 6,390 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.42/32 # United States — AS18450 WEBNX — 6,174 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.46/32 # United States — AS18450 WEBNX — 5,771 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.40/32 # United States — AS18450 WEBNX — 5,884 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.162/32 # United States — AS207043 DEDIK-IO — 5,901 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.158/32 # United States — AS207043 DEDIK-IO — 6,079 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.41/32 # United States — AS18450 WEBNX — 6,646 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.43/32 # United States — AS18450 WEBNX — 6,415 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.48/32 # United States — AS18450 WEBNX — 6,389 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.197.168/32 # United States — AS62164 HEYMMAN-2 — 6,163 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.76/32 # United States — AS18450 WEBNX — 6,592 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.44/32 # United States — AS18450 WEBNX — 6,339 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-151.240.151.59/32 # Germany — AS207043 DEDIK-IO — 6,737 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.0.138/32 # Germany — AS135388 RPL-HK — 9,044 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.83.79/32 # Germany — AS207043 DEDIK-IO — 1,386 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.209/32 # Germany — AS207043 DEDIK-IO — 3,631 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+85.11.161.140/32 # Hong Kong — AS207043 DEDIK-IO — 5,194 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.41.221/32 # Germany — AS207043 DEDIK-IO — 3,474 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.89/32 # United States — AS207043 DEDIK-IO — 3,995 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.90/32 # Germany — AS207043 DEDIK-IO — 3,952 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.90/32 # United States — AS207043 DEDIK-IO — 4,022 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.84/32 # United States — AS207043 DEDIK-IO — 4,140 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.87/32 # United States — AS207043 DEDIK-IO — 4,092 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.208/32 # Germany — AS207043 DEDIK-IO — 3,846 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.93/32 # United States — AS207043 DEDIK-IO — 4,640 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.156/32 # United States — AS207043 DEDIK-IO — 3,914 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.146/32 # United States — AS207043 DEDIK-IO — 4,286 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+173.231.47.238/32 # United States — AS18450 WEBNX — 4,472 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.86/32 # United States — AS207043 DEDIK-IO — 4,118 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.88/32 # United States — AS207043 DEDIK-IO — 4,029 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.85/32 # United States — AS207043 DEDIK-IO — 4,082 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.149/32 # United States — AS207043 DEDIK-IO — 4,143 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.78/32 # United States — AS207043 DEDIK-IO — 4,111 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+23.94.252.141/32 # United States — AS207043 DEDIK-IO — 4,422 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.91/32 # United States — AS207043 DEDIK-IO — 4,736 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.87/32 # Germany — AS207043 DEDIK-IO — 4,188 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.0.149/32 # Germany — AS135388 RPL-HK — 4,594 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+216.158.95.179/32 # United States — AS18450 WEBNX — 5,376 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+23.94.145.88/32 # United States — AS207043 DEDIK-IO — 4,448 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.157/32 # United States — AS207043 DEDIK-IO — 5,956 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.153/32 # United States — AS207043 DEDIK-IO — 6,095 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.10/32 # United States — AS18450 WEBNX — 5,822 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.155/32 # United States — AS207043 DEDIK-IO — 6,143 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.35/32 # United States — AS18450 WEBNX — 5,510 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.47/32 # United States — AS18450 WEBNX — 6,240 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.45/32 # United States — AS18450 WEBNX — 6,416 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.42/32 # United States — AS18450 WEBNX — 6,200 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.46/32 # United States — AS18450 WEBNX — 5,795 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.40/32 # United States — AS18450 WEBNX — 5,908 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.162/32 # United States — AS207043 DEDIK-IO — 5,927 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.158/32 # United States — AS207043 DEDIK-IO — 6,105 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.41/32 # United States — AS18450 WEBNX — 6,674 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.43/32 # United States — AS18450 WEBNX — 6,443 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.48/32 # United States — AS18450 WEBNX — 6,415 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.197.168/32 # United States — AS62164 HEYMMAN-2 — 6,189 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.76/32 # United States — AS18450 WEBNX — 6,620 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.44/32 # United States — AS18450 WEBNX — 6,365 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+151.240.151.59/32 # Germany — AS207043 DEDIK-IO — 6,765 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.0.138/32 # Germany — AS135388 RPL-HK — 9,082 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 5.255.110.228/32 # The Netherlands — AS60404 Liteserver — 3 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-147.78.241.103/32 # Germany — AS43357 OWL — 120 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.241.103/32 # Germany — AS43357 OWL — 124 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 104.36.50.54/32 # United States — AS203020 HostRoyale — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 152.233.51.59/32 # Germany — AS212238 CDNEXT — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 155.2.191.25/32 # United States — AS136557 HOST-AS-AP — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
@@ -184,24 +184,24 @@
 23.234.103.66/32 # United States — AS11878 TZULO — 124 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.89.233/32 # United States — AS11878 TZULO — 186 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 194.36.27.122/32 # Netherlands — AS43357 OWL — 186 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-185.195.232.152/32 # United Kingdom — AS39351 ESAB-AS — 124 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.195.232.152/32 # United Kingdom — AS39351 ESAB-AS — 128 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.74.165/32 # United States — AS11878 TZULO — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.45.4.214/32 # United States — AS9009 M247 — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-89.45.4.211/32 # United States — AS9009 M247 — 128 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+89.45.4.211/32 # United States — AS9009 M247 — 132 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 146.70.119.46/32 # United Kingdom — AS9009 M247 — 30 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.78.102/32 # United States — AS11878 TZULO — 132 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 170.62.100.57/32 # Sweden — AS212238 CDNEXT — 132 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.119.247/32 # United States — AS11878 TZULO — 136 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.88.243/32 # United States — AS11878 TZULO — 140 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.98.173/32 # United States — AS11878 TZULO — 140 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
-135.136.19.202/32 # Germany — AS9009 M247 — 140 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.224/32 # Netherlands — AS43357 OWL — 140 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-147.78.240.107/32 # Germany — AS43357 OWL — 210 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-135.136.36.43/32 # United States — AS9009 M247 — 210 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 210 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+135.136.19.202/32 # Germany — AS9009 M247 — 144 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.224/32 # Netherlands — AS43357 OWL — 144 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.240.107/32 # Germany — AS43357 OWL — 216 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+135.136.36.43/32 # United States — AS9009 M247 — 216 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 216 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 216.252.238.189/32 # The Netherlands — AS40676 AS40676 — 24 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-152.233.51.80/32 # Germany — AS212238 CDNEXT — 144 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.27/32 # Netherlands — AS43357 OWL — 148 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+152.233.51.80/32 # Germany — AS212238 CDNEXT — 148 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.27/32 # Netherlands — AS43357 OWL — 152 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 173.249.254.188/32 # United States — AS11878 TZULO — 160 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.73.238/32 # United States — AS11878 TZULO — 240 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 62.101.160.216/32 # The Netherlands — AS203020 HostRoyale — 164 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
@@ -225,7 +225,7 @@
 155.212.39.116/32 # Germany — AS43444 BNS-AS — 138 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 155.212.39.147/32 # Germany — AS43444 BNS-AS — 102 hits — src:6b84d3e4-309c-4bda-991a-e25920c302fe
 193.31.126.60/32 # France — AS46475 LIMESTONENETWORKS — 126 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-185.195.232.197/32 # United Kingdom — AS39351 ESAB-AS — 188 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+185.195.232.197/32 # United Kingdom — AS39351 ESAB-AS — 192 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 68.235.46.59/32 # United States — AS11878 TZULO — 64 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 147.78.241.215/32 # Germany — AS43357 OWL — 80 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 130.49.114.23/32 # France — AS35830 BTTGROUP-AS — 60 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
