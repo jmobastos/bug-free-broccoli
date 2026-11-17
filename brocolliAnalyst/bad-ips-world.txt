@@ -1,8 +1,16 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-17 14:30:40 UTC  by Stratacoli 2.60.0
-# Entries: 5795
+# Generated: 2026-11-17 15:00:50 UTC  by Stratacoli 2.60.0
+# Entries: 5803
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+91.92.40.12/32 # The Netherlands — AS197170 TECHTIES-AS — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+172.234.162.31/32 # France — AS63949 AKAMAI-LINODE-AP — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+139.162.184.146/32 # Germany — AS63949 AKAMAI-LINODE-AP — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+144.124.246.51/32 # The Netherlands — AS216071 VDSINA — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+152.236.14.137/32 # Canada — AS396356 LATITUDE-SH — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+45.138.12.89/32 # Hong Kong — AS218785 TC-DATACENTER — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+176.65.139.160/32 # The Netherlands — AS219502 STORMCLOUD-AS — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
+139.144.160.162/32 # Germany — AS63949 AKAMAI-LINODE-AP — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 144.172.119.114/32 # Germany — AS14956 ROUTERHOSTING — 4 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.85.63/32 # United States — AS14956 ROUTERHOSTING — 8 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 77.73.20.34/32 # France — AS214961 STELLARGROUPSAS — 12 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
