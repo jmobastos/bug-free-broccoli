@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-17 20:33:23 UTC  by Stratacoli 2.60.0
+# Generated: 2026-11-17 21:03:46 UTC  by Stratacoli 2.60.0
 # Entries: 5806
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -17,32 +17,32 @@
 144.172.119.114/32 # Germany — AS14956 ROUTERHOSTING — 12 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.85.63/32 # United States — AS14956 ROUTERHOSTING — 12 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 77.73.20.34/32 # France — AS214961 STELLARGROUPSAS — 20 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-74.0.103.64/32 # United States — AS212238 CDNEXT — 96 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.103.64/32 # United States — AS212238 CDNEXT — 99 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 72.244.47.161/32 # United States — AS212238 CDNEXT — 40 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 144.172.64.127/32 # Australia — AS14956 ROUTERHOSTING — 3 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 74.0.101.139/32 # United States — AS212238 CDNEXT — 38 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-74.0.96.20/32 # United States — AS212238 CDNEXT — 74 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
+74.0.96.20/32 # United States — AS212238 CDNEXT — 77 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 72.244.47.81/32 # United States — AS212238 CDNEXT — 36 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-72.244.47.246/32 # United States — AS212238 CDNEXT — 67 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+72.244.47.246/32 # United States — AS212238 CDNEXT — 72 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 72.244.46.79/32 # United States — AS212238 CDNEXT — 23 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 74.0.97.27/32 # United States — AS212238 CDNEXT — 48 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 72.244.46.46/32 # United States — AS212238 CDNEXT — 66 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 72.244.46.220/32 # United States — AS212238 CDNEXT — 99 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 74.0.102.107/32 # United States — AS212238 CDNEXT — 81 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-72.244.47.133/32 # United States — AS212238 CDNEXT — 101 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+72.244.47.133/32 # United States — AS212238 CDNEXT — 105 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.101.13/32 # United States — AS212238 CDNEXT — 33 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-72.244.46.15/32 # United States — AS212238 CDNEXT — 138 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-74.0.103.214/32 # United States — AS212238 CDNEXT — 71 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+72.244.46.15/32 # United States — AS212238 CDNEXT — 145 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.103.214/32 # United States — AS212238 CDNEXT — 74 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.98.76/32 # United States — AS212238 CDNEXT — 57 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.97.87/32 # United States — AS212238 CDNEXT — 60 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 74.0.97.129/32 # United States — AS212238 CDNEXT — 118 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-74.0.102.129/32 # United States — AS212238 CDNEXT — 48 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+74.0.102.129/32 # United States — AS212238 CDNEXT — 51 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.237/32 # United States — AS212238 CDNEXT — 107 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.5/32 # United States — AS212238 CDNEXT — 74 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-74.0.98.172/32 # United States — AS212238 CDNEXT — 63 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.46.69/32 # United States — AS212238 CDNEXT — 103 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+74.0.98.172/32 # United States — AS212238 CDNEXT — 66 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.46.69/32 # United States — AS212238 CDNEXT — 110 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.94/32 # United States — AS212238 CDNEXT — 68 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.47.13/32 # United States — AS212238 CDNEXT — 92 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.47.13/32 # United States — AS212238 CDNEXT — 96 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.248/32 # United States — AS212238 CDNEXT — 68 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.47.201/32 # United States — AS212238 CDNEXT — 36 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 72.244.46.216/32 # United States — AS212238 CDNEXT — 36 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
@@ -52,12 +52,12 @@
 72.244.47.54/32 # United States — AS212238 CDNEXT — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 74.0.103.78/32 # United States — AS212238 CDNEXT — 33 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 74.0.101.49/32 # United States — AS212238 CDNEXT — 36 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-74.0.98.245/32 # United States — AS212238 CDNEXT — 69 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+74.0.98.245/32 # United States — AS212238 CDNEXT — 72 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 72.244.46.133/32 # United States — AS212238 CDNEXT — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 72.244.47.67/32 # United States — AS212238 CDNEXT — 38 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 74.0.96.115/32 # United States — AS212238 CDNEXT — 41 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-74.0.97.2/32 # United States — AS212238 CDNEXT — 36 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
-74.0.97.20/32 # United States — AS212238 CDNEXT — 24 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+74.0.97.2/32 # United States — AS212238 CDNEXT — 39 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+74.0.97.20/32 # United States — AS212238 CDNEXT — 28 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 72.244.46.114/32 # United States — AS212238 CDNEXT — 39 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 153.75.90.85/32 # United States — AS14956 ROUTERHOSTING — 77 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 74.0.103.93/32 # United States — AS212238 CDNEXT — 39 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -66,8 +66,8 @@
 74.0.100.7/32 # United States — AS212238 CDNEXT — 53 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 74.0.96.19/32 # United States — AS212238 CDNEXT — 21 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.98.150/32 # United States — AS212238 CDNEXT — 78 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-72.244.47.162/32 # United States — AS212238 CDNEXT — 43 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-209.99.185.133/32 # Switzerland — AS402253 SKN-NETWORK-1 — 114 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+72.244.47.162/32 # United States — AS212238 CDNEXT — 46 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+209.99.185.133/32 # Switzerland — AS402253 SKN-NETWORK-1 — 120 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 72.244.47.77/32 # United States — AS212238 CDNEXT — 39 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 74.0.102.4/32 # United States — AS212238 CDNEXT — 39 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 95.92.65.118/32 # Portugal — AS2860 NOS_COMUNICACOES — 56 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
@@ -77,7 +77,7 @@
 104.194.141.57/32 # United States — AS198983 TornadoDatacenter — 80 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 64.224.17.139/32 # United States — AS399486 VIRTUO — 80 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 45.141.21.148/32 # France — AS214961 STELLARGROUPSAS — 80 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-45.61.177.88/32 # United States — AS14956 ROUTERHOSTING — 80 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+45.61.177.88/32 # United States — AS14956 ROUTERHOSTING — 90 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 77.73.20.50/32 # France — AS214961 STELLARGROUPSAS — 90 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 45.61.162.146/32 # United States — AS14956 ROUTERHOSTING — 90 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 64.224.17.144/32 # United States — AS399486 VIRTUO — 90 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
@@ -90,7 +90,7 @@
 77.73.20.53/32 # France — AS214961 STELLARGROUPSAS — 110 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 64.224.17.102/32 # United States — AS399486 VIRTUO — 110 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 64.224.17.126/32 # United States — AS399486 VIRTUO — 110 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-172.86.74.210/32 # United States — AS14956 ROUTERHOSTING — 110 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+172.86.74.210/32 # United States — AS14956 ROUTERHOSTING — 120 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 77.73.20.54/32 # France — AS214961 STELLARGROUPSAS — 120 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 31.57.147.90/32 # United States — AS399486 VIRTUO — 120 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 104.239.66.33/32 # France — AS214961 STELLARGROUPSAS — 120 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
@@ -98,7 +98,7 @@
 45.61.177.99/32 # United States — AS14956 ROUTERHOSTING — 240 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 77.73.20.233/32 # France — AS214961 STELLARGROUPSAS — 120 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 31.57.147.71/32 # United States — AS399486 VIRTUO — 120 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-45.61.177.72/32 # United States — AS14956 ROUTERHOSTING — 120 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+45.61.177.72/32 # United States — AS14956 ROUTERHOSTING — 130 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 77.73.20.45/32 # France — AS214961 STELLARGROUPSAS — 130 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.74.211/32 # United States — AS14956 ROUTERHOSTING — 156 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 144.172.64.141/32 # Australia — AS14956 ROUTERHOSTING — 140 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
@@ -124,7 +124,7 @@
 93.152.206.227/32 # The Netherlands — AS207043 DEDIK-IO — 2,484 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 93.152.211.44/32 # The Netherlands — AS25211 EuroCrypt-AS — 3,988 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 93.152.206.194/32 # The Netherlands — AS207043 DEDIK-IO — 4,140 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-170.168.240.221/32 # Germany — AS59651 AS-QualityNetwork — 81 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
+170.168.240.221/32 # Germany — AS59651 AS-QualityNetwork — 84 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
 96.62.218.229/32 # United States — AS207043 DEDIK-IO — 922 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 96.62.218.230/32 # United States — AS207043 DEDIK-IO — 922 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 194.99.27.124/32 # Finland — AS43444 BNS-AS — 75 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
