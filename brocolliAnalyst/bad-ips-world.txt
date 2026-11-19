@@ -1,5 +1,5 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-19 18:35:50 UTC  by Stratacoli 2.60.0
+# Generated: 2026-11-19 19:05:57 UTC  by Stratacoli 2.60.0
 # Entries: 6083
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
@@ -451,7 +451,7 @@
 151.240.151.59/32 # Germany — AS207043 DEDIK-IO — 8,409 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 94.26.0.138/32 # Germany — AS135388 RPL-HK — 11,297 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 5.255.110.228/32 # The Netherlands — AS60404 Liteserver — 3 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-147.78.241.103/32 # Germany — AS43357 OWL — 160 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.241.103/32 # Germany — AS43357 OWL — 164 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 104.36.50.54/32 # United States — AS203020 HostRoyale — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 152.233.51.59/32 # Germany — AS212238 CDNEXT — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 155.2.191.25/32 # United States — AS136557 HOST-AS-AP — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
@@ -467,7 +467,7 @@
 185.195.232.152/32 # United Kingdom — AS39351 ESAB-AS — 136 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.74.165/32 # United States — AS11878 TZULO — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.45.4.214/32 # United States — AS9009 M247 — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-89.45.4.211/32 # United States — AS9009 M247 — 168 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+89.45.4.211/32 # United States — AS9009 M247 — 172 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 146.70.119.46/32 # United Kingdom — AS9009 M247 — 30 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.78.102/32 # United States — AS11878 TZULO — 172 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 170.62.100.57/32 # Sweden — AS212238 CDNEXT — 172 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
@@ -475,13 +475,13 @@
 23.234.88.243/32 # United States — AS11878 TZULO — 180 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.98.173/32 # United States — AS11878 TZULO — 180 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 135.136.19.202/32 # Germany — AS9009 M247 — 180 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.224/32 # Netherlands — AS43357 OWL — 180 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-147.78.240.107/32 # Germany — AS43357 OWL — 270 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-135.136.36.43/32 # United States — AS9009 M247 — 270 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 262 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.224/32 # Netherlands — AS43357 OWL — 184 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.240.107/32 # Germany — AS43357 OWL — 276 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+135.136.36.43/32 # United States — AS9009 M247 — 276 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 266 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 216.252.238.189/32 # The Netherlands — AS40676 AS40676 — 24 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-152.233.51.80/32 # Germany — AS212238 CDNEXT — 184 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.27/32 # Netherlands — AS43357 OWL — 188 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+152.233.51.80/32 # Germany — AS212238 CDNEXT — 188 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.27/32 # Netherlands — AS43357 OWL — 192 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 173.249.254.188/32 # United States — AS11878 TZULO — 192 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.73.238/32 # United States — AS11878 TZULO — 288 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 62.101.160.216/32 # The Netherlands — AS203020 HostRoyale — 172 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
