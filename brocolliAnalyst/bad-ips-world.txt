@@ -1,8 +1,14 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-20 04:10:48 UTC  by Stratacoli 2.60.0
-# Entries: 6162
+# Generated: 2026-11-20 04:41:12 UTC  by Stratacoli 2.60.0
+# Entries: 6168
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+13.184.45.35/32 # United States — AS16509 AMAZON-02 — 979 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
+23.236.148.85/32 # United States — AS55286 SERVER-MANIA — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+168.228.47.225/32 # United States — AS263744 Udasha S.A. — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+208.86.27.80/32 # United States — AS33368 FXISP — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+181.177.84.172/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.0.60.149/32 # United States — AS263821 Soluciones Favorables — 4 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 186.65.118.159/32 # United States — AS263740 Corporacion Laceibanetsociety — 3 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 181.177.89.49/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 186.65.115.17/32 # United States — AS263740 Corporacion Laceibanetsociety — 3 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -15,7 +21,7 @@
 181.177.84.189/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 181.177.86.141/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 7 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 23.236.151.34/32 # United States — AS55286 SERVER-MANIA — 3 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-191.102.154.89/32 # United States — AS394474 WHITELABELCOLO393 — 13 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+191.102.154.89/32 # United States — AS394474 WHITELABELCOLO393 — 21 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 208.86.27.34/32 # United States — AS33368 FXISP — 3 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 23.236.139.2/32 # United States — AS55286 SERVER-MANIA — 3 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 181.177.87.121/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
@@ -27,15 +33,15 @@
 178.171.13.191/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.5.191/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 186.179.62.129/32 # United States — AS52393 Corporacion Dana S.A. — 3 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-178.171.14.111/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.4.250/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-181.177.85.222/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-95.164.245.201/32 # United States — AS397477 WGIX — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-138.59.207.9/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 3 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.3.225/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-191.102.156.65/32 # United States — AS394474 WHITELABELCOLO393 — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.9.72/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.3.62/32 # United States — AS213541 ws-telecom-sdn — 3 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.14.111/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.4.250/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+181.177.85.222/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+95.164.245.201/32 # United States — AS397477 WGIX — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+138.59.207.9/32 # United States — AS263735 SOCIEDAD BUENA HOSTING, S.A. — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.3.225/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+191.102.156.65/32 # United States — AS394474 WHITELABELCOLO393 — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.9.72/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.3.62/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 200.203.0.135/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.5.180/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 170.244.95.222/32 # United States — AS394474 WHITELABELCOLO393 — 6 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -90,18 +96,18 @@
 178.171.10.70/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.7.64/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.13.5/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-200.203.1.5/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.2.201/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.4.210/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.9.204/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-170.246.55.14/32 # United States — AS263740 Corporacion Laceibanetsociety — 6 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.7.197/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.0.95/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.1.147/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.4.111/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.5.36/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.4.52/32 # United States — AS213541 ws-telecom-sdn — 6 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-95.164.245.192/32 # United States — AS397477 WGIX — 12 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.1.5/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.2.201/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.4.210/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.9.204/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+170.246.55.14/32 # United States — AS263740 Corporacion Laceibanetsociety — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.7.197/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.0.95/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.1.147/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.4.111/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.5.36/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.4.52/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+95.164.245.192/32 # United States — AS397477 WGIX — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 191.102.156.75/32 # United States — AS394474 WHITELABELCOLO393 — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.5.228/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.1.96/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -133,8 +139,8 @@
 178.171.12.221/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 200.203.7.7/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 178.171.1.24/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-178.171.5.64/32 # United States — AS213541 ws-telecom-sdn — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-208.86.27.168/32 # United States — AS33368 FXISP — 9 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.5.64/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+208.86.27.168/32 # United States — AS33368 FXISP — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 178.171.9.132/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.3.54/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.0.191/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -153,20 +159,20 @@
 200.203.1.49/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.15.38/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.5.67/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-178.171.13.219/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.3.196/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.0.250/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.9.162/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.3.158/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.13.20/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.1.195/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.14.37/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.1.102/32 # United States — AS213541 ws-telecom-sdn — 12 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.13.219/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.3.196/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.0.250/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.9.162/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.3.158/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.13.20/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.1.195/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.14.37/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.1.102/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 200.203.1.130/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.2.169/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.12.196/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.4.47/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
-200.203.7.126/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
+200.203.7.126/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.0.133/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.0.129/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.2.241/32 # United States — AS213541 ws-telecom-sdn — 20 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -192,20 +198,20 @@
 178.171.6.97/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 178.171.4.178/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 178.171.1.174/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-178.171.14.74/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+178.171.14.74/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 178.171.6.216/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 191.102.154.49/32 # United States — AS394474 WHITELABELCOLO393 — 15 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 200.203.3.160/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.5.60/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.4.153/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.5.243/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-200.203.2.18/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.0.182/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.7.83/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.7.137/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.13.139/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.5.51/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.1.104/32 # United States — AS213541 ws-telecom-sdn — 15 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.2.18/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.0.182/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.7.83/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.7.137/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.13.139/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.5.51/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.1.104/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 178.171.5.143/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.4.234/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.1.92/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -219,7 +225,7 @@
 178.171.4.102/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 178.171.9.155/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 178.171.4.120/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-178.171.0.209/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
+178.171.0.209/32 # United States — AS213541 ws-telecom-sdn — 36 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 178.171.7.24/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.4.119/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.6.26/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -229,7 +235,7 @@
 178.171.9.14/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.1.25/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 178.171.7.196/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-178.171.0.212/32 # United States — AS213541 ws-telecom-sdn — 51 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+178.171.0.212/32 # United States — AS213541 ws-telecom-sdn — 54 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 200.203.3.18/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 178.171.6.65/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 178.171.6.48/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
@@ -254,13 +260,13 @@
 178.171.10.165/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.4.151/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.4.124/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-178.171.6.199/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.4.184/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.3.230/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.2.210/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.7.59/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.5.223/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.0.186/32 # United States — AS213541 ws-telecom-sdn — 18 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.6.199/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.4.184/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.3.230/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.2.210/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.7.59/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.5.223/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.0.186/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 200.203.6.74/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.14.15/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.6.204/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -296,10 +302,10 @@
 178.171.10.28/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 200.203.3.109/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.7.178/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-200.203.4.111/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.7.92/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-200.203.6.210/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.1.206/32 # United States — AS213541 ws-telecom-sdn — 21 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.4.111/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.7.92/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.6.210/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.1.206/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 200.203.1.34/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.2.96/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.3.140/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -325,10 +331,10 @@
 200.203.6.30/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.4.100/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 178.171.3.95/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-178.171.5.24/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-178.171.1.90/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-200.203.5.133/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-178.171.6.6/32 # United States — AS213541 ws-telecom-sdn — 24 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.5.24/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+178.171.1.90/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+200.203.5.133/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.6.6/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 178.171.5.108/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.0.229/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 178.171.4.50/32 # United States — AS213541 ws-telecom-sdn — 27 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
@@ -350,7 +356,7 @@
 178.171.4.213/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.7.226/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 146.19.143.135/32 # Estonia — AS62005 BV-EU-AS — 80 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-200.203.2.43/32 # United States — AS213541 ws-telecom-sdn — 30 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+200.203.2.43/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 178.171.11.28/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.4.127/32 # United States — AS213541 ws-telecom-sdn — 44 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 200.203.7.63/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
@@ -358,7 +364,7 @@
 178.171.5.164/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 178.171.7.173/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.1.136/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-178.171.6.193/32 # United States — AS213541 ws-telecom-sdn — 33 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+178.171.6.193/32 # United States — AS213541 ws-telecom-sdn — 36 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 200.203.3.2/32 # United States — AS213541 ws-telecom-sdn — 36 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 200.203.4.115/32 # United States — AS213541 ws-telecom-sdn — 36 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 45.61.177.69/32 # United States — AS14956 ROUTERHOSTING — 48 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
@@ -373,66 +379,66 @@
 144.172.119.114/32 # Germany — AS14956 ROUTERHOSTING — 56 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.85.63/32 # United States — AS14956 ROUTERHOSTING — 56 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 77.73.20.34/32 # France — AS214961 STELLARGROUPSAS — 64 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-74.0.103.64/32 # United States — AS212238 CDNEXT — 341 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.103.64/32 # United States — AS212238 CDNEXT — 348 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 72.244.47.161/32 # United States — AS212238 CDNEXT — 128 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 144.172.64.127/32 # Australia — AS14956 ROUTERHOSTING — 3 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-74.0.101.139/32 # United States — AS212238 CDNEXT — 115 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
-74.0.96.20/32 # United States — AS212238 CDNEXT — 231 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
+74.0.101.139/32 # United States — AS212238 CDNEXT — 119 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
+74.0.96.20/32 # United States — AS212238 CDNEXT — 234 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 72.244.47.81/32 # United States — AS212238 CDNEXT — 102 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 72.244.47.246/32 # United States — AS212238 CDNEXT — 204 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 72.244.46.79/32 # United States — AS212238 CDNEXT — 67 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-74.0.97.27/32 # United States — AS212238 CDNEXT — 147 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-72.244.46.46/32 # United States — AS212238 CDNEXT — 198 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-72.244.46.220/32 # United States — AS212238 CDNEXT — 294 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-74.0.102.107/32 # United States — AS212238 CDNEXT — 235 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-72.244.47.133/32 # United States — AS212238 CDNEXT — 314 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-74.0.101.13/32 # United States — AS212238 CDNEXT — 99 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-72.244.46.15/32 # United States — AS212238 CDNEXT — 420 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.97.27/32 # United States — AS212238 CDNEXT — 150 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+72.244.46.46/32 # United States — AS212238 CDNEXT — 201 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+72.244.46.220/32 # United States — AS212238 CDNEXT — 300 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+74.0.102.107/32 # United States — AS212238 CDNEXT — 238 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+72.244.47.133/32 # United States — AS212238 CDNEXT — 320 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.101.13/32 # United States — AS212238 CDNEXT — 102 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+72.244.46.15/32 # United States — AS212238 CDNEXT — 423 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.103.214/32 # United States — AS212238 CDNEXT — 217 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-74.0.98.76/32 # United States — AS212238 CDNEXT — 167 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+74.0.98.76/32 # United States — AS212238 CDNEXT — 170 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.97.87/32 # United States — AS212238 CDNEXT — 167 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-74.0.97.129/32 # United States — AS212238 CDNEXT — 346 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-74.0.102.129/32 # United States — AS212238 CDNEXT — 147 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.46.237/32 # United States — AS212238 CDNEXT — 313 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.46.5/32 # United States — AS212238 CDNEXT — 214 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-74.0.98.172/32 # United States — AS212238 CDNEXT — 195 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.46.69/32 # United States — AS212238 CDNEXT — 316 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+74.0.97.129/32 # United States — AS212238 CDNEXT — 350 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+74.0.102.129/32 # United States — AS212238 CDNEXT — 150 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.46.237/32 # United States — AS212238 CDNEXT — 316 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.46.5/32 # United States — AS212238 CDNEXT — 218 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+74.0.98.172/32 # United States — AS212238 CDNEXT — 198 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.46.69/32 # United States — AS212238 CDNEXT — 319 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.94/32 # United States — AS212238 CDNEXT — 196 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-72.244.47.13/32 # United States — AS212238 CDNEXT — 279 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+72.244.47.13/32 # United States — AS212238 CDNEXT — 282 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.46.248/32 # United States — AS212238 CDNEXT — 196 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 72.244.47.201/32 # United States — AS212238 CDNEXT — 102 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 72.244.46.216/32 # United States — AS212238 CDNEXT — 102 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
 74.0.96.135/32 # United States — AS212238 CDNEXT — 51 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-74.0.98.242/32 # United States — AS212238 CDNEXT — 51 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-72.244.47.5/32 # United States — AS212238 CDNEXT — 67 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-72.244.47.54/32 # United States — AS212238 CDNEXT — 51 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-74.0.103.78/32 # United States — AS212238 CDNEXT — 99 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-74.0.101.49/32 # United States — AS212238 CDNEXT — 102 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-74.0.98.245/32 # United States — AS212238 CDNEXT — 204 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-72.244.46.133/32 # United States — AS212238 CDNEXT — 51 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-72.244.47.67/32 # United States — AS212238 CDNEXT — 115 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
-74.0.96.115/32 # United States — AS212238 CDNEXT — 118 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+74.0.98.242/32 # United States — AS212238 CDNEXT — 54 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+72.244.47.5/32 # United States — AS212238 CDNEXT — 71 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+72.244.47.54/32 # United States — AS212238 CDNEXT — 54 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+74.0.103.78/32 # United States — AS212238 CDNEXT — 102 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+74.0.101.49/32 # United States — AS212238 CDNEXT — 108 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+74.0.98.245/32 # United States — AS212238 CDNEXT — 210 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+72.244.46.133/32 # United States — AS212238 CDNEXT — 54 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+72.244.47.67/32 # United States — AS212238 CDNEXT — 118 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
+74.0.96.115/32 # United States — AS212238 CDNEXT — 122 hits — src:16c4602a-65a5-4cc2-afd1-a7f2c8ee1a9d
 74.0.97.2/32 # United States — AS212238 CDNEXT — 105 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 74.0.97.20/32 # United States — AS212238 CDNEXT — 72 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 72.244.46.114/32 # United States — AS212238 CDNEXT — 105 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 153.75.90.85/32 # United States — AS14956 ROUTERHOSTING — 198 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 74.0.103.93/32 # United States — AS212238 CDNEXT — 105 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-72.244.47.44/32 # United States — AS212238 CDNEXT — 177 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+72.244.47.44/32 # United States — AS212238 CDNEXT — 180 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 72.244.46.219/32 # United States — AS212238 CDNEXT — 71 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-74.0.100.7/32 # United States — AS212238 CDNEXT — 141 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
+74.0.100.7/32 # United States — AS212238 CDNEXT — 144 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 74.0.96.19/32 # United States — AS212238 CDNEXT — 54 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 74.0.98.150/32 # United States — AS212238 CDNEXT — 210 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 72.244.47.162/32 # United States — AS212238 CDNEXT — 123 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-209.99.185.133/32 # Switzerland — AS402253 SKN-NETWORK-1 — 316 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
-72.244.47.77/32 # United States — AS212238 CDNEXT — 102 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
+209.99.185.133/32 # Switzerland — AS402253 SKN-NETWORK-1 — 320 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
+72.244.47.77/32 # United States — AS212238 CDNEXT — 105 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 74.0.102.4/32 # United States — AS212238 CDNEXT — 102 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-95.92.65.118/32 # Portugal — AS2860 NOS_COMUNICACOES — 144 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
+95.92.65.118/32 # Portugal — AS2860 NOS_COMUNICACOES — 152 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 198.251.85.238/32 # Australia — AS14956 ROUTERHOSTING — 370 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 45.61.177.90/32 # United States — AS14956 ROUTERHOSTING — 190 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 45.61.177.117/32 # United States — AS14956 ROUTERHOSTING — 190 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 104.194.141.57/32 # United States — AS198983 TornadoDatacenter — 190 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 64.224.17.139/32 # United States — AS399486 VIRTUO — 180 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-45.141.21.148/32 # France — AS214961 STELLARGROUPSAS — 190 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+45.141.21.148/32 # France — AS214961 STELLARGROUPSAS — 200 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 45.61.177.88/32 # United States — AS14956 ROUTERHOSTING — 200 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 77.73.20.50/32 # France — AS214961 STELLARGROUPSAS — 200 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 45.61.162.146/32 # United States — AS14956 ROUTERHOSTING — 200 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
@@ -452,85 +458,85 @@
 104.239.66.33/32 # France — AS214961 STELLARGROUPSAS — 230 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 172.86.74.212/32 # United States — AS14956 ROUTERHOSTING — 220 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
 45.61.177.99/32 # United States — AS14956 ROUTERHOSTING — 454 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-77.73.20.233/32 # France — AS214961 STELLARGROUPSAS — 230 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
-31.57.147.71/32 # United States — AS399486 VIRTUO — 230 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+77.73.20.233/32 # France — AS214961 STELLARGROUPSAS — 240 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+31.57.147.71/32 # United States — AS399486 VIRTUO — 240 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 45.61.177.72/32 # United States — AS14956 ROUTERHOSTING — 230 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 77.73.20.45/32 # France — AS214961 STELLARGROUPSAS — 240 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
 172.86.74.211/32 # United States — AS14956 ROUTERHOSTING — 288 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 144.172.64.141/32 # Australia — AS14956 ROUTERHOSTING — 250 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 172.86.81.34/32 # Singapore — AS14956 ROUTERHOSTING — 490 hits — src:16931cde-84da-41b4-b34c-1766a6734bcd
 45.59.126.220/32 # Switzerland — AS14956 ROUTERHOSTING — 240 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-5.255.126.166/32 # The Netherlands — AS60404 Liteserver — 75 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-84.200.89.19/32 # Germany — AS214036 ULTAHOST-AS — 75 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+5.255.126.166/32 # The Netherlands — AS60404 Liteserver — 78 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+84.200.89.19/32 # Germany — AS214036 ULTAHOST-AS — 78 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 45.61.177.93/32 # United States — AS14956 ROUTERHOSTING — 75 hits — src:b1733639-7dbb-4311-98e7-f74e54bb3a73
-5.255.120.182/32 # The Netherlands — AS60404 Liteserver — 81 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-93.152.211.28/32 # The Netherlands — AS25211 EuroCrypt-AS — 1,846 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+5.255.120.182/32 # The Netherlands — AS60404 Liteserver — 84 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+93.152.211.28/32 # The Netherlands — AS25211 EuroCrypt-AS — 1,884 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 198.251.85.165/32 # Australia — AS14956 ROUTERHOSTING — 30 hits — src:997102ef-1be1-449b-98be-b4f8acba8496
 153.75.87.172/32 # The Netherlands — AS14956 ROUTERHOSTING — 580 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 172.86.85.52/32 # United States — AS14956 ROUTERHOSTING — 290 hits — src:aad98d6c-0934-49fb-a54d-35092dd5a707
-45.61.177.178/32 # United States — AS14956 ROUTERHOSTING — 290 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
+45.61.177.178/32 # United States — AS14956 ROUTERHOSTING — 300 hits — src:25870428-1ea8-4570-a4e9-8ab18a6cd3ae
 45.61.177.104/32 # United States — AS14956 ROUTERHOSTING — 290 hits — src:570ad4da-34ef-44ed-8a42-04f7d75301ca
 45.61.162.176/32 # United States — AS14956 ROUTERHOSTING — 300 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
 45.61.178.169/32 # United States — AS14956 ROUTERHOSTING — 290 hits — src:c2768dd1-b208-4a59-bfba-097389f26f76
-150.251.114.53/32 # Poland — AS215311 REGXA-CLOUD — 90 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-84.200.80.98/32 # Germany — AS214036 ULTAHOST-AS — 90 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-84.200.87.201/32 # Germany — AS214036 ULTAHOST-AS — 90 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-150.251.114.59/32 # Poland — AS215311 REGXA-CLOUD — 96 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-84.200.89.31/32 # Germany — AS214036 ULTAHOST-AS — 105 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-93.152.206.227/32 # The Netherlands — AS207043 DEDIK-IO — 3,583 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-93.152.211.44/32 # The Netherlands — AS25211 EuroCrypt-AS — 5,752 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-93.152.206.194/32 # The Netherlands — AS207043 DEDIK-IO — 5,963 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+150.251.114.53/32 # Poland — AS215311 REGXA-CLOUD — 93 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+84.200.80.98/32 # Germany — AS214036 ULTAHOST-AS — 93 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+84.200.87.201/32 # Germany — AS214036 ULTAHOST-AS — 93 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+150.251.114.59/32 # Poland — AS215311 REGXA-CLOUD — 99 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+84.200.89.31/32 # Germany — AS214036 ULTAHOST-AS — 108 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+93.152.206.227/32 # The Netherlands — AS207043 DEDIK-IO — 3,631 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.152.211.44/32 # The Netherlands — AS25211 EuroCrypt-AS — 5,828 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+93.152.206.194/32 # The Netherlands — AS207043 DEDIK-IO — 6,025 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 170.168.240.221/32 # Germany — AS59651 AS-QualityNetwork — 117 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
-96.62.218.229/32 # United States — AS207043 DEDIK-IO — 1,296 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
-96.62.218.230/32 # United States — AS207043 DEDIK-IO — 1,296 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+96.62.218.229/32 # United States — AS207043 DEDIK-IO — 1,330 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
+96.62.218.230/32 # United States — AS207043 DEDIK-IO — 1,330 hits — src:34a2afe0-b747-4acc-b839-f82d2f043fcc
 194.99.27.124/32 # Finland — AS43444 BNS-AS — 75 hits — src:9af6c210-f4ef-469a-809f-98ff97124a7e
-94.26.83.79/32 # Germany — AS207043 DEDIK-IO — 1,726 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.209/32 # Germany — AS207043 DEDIK-IO — 4,591 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-85.11.161.140/32 # Hong Kong — AS207043 DEDIK-IO — 6,601 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.41.221/32 # Germany — AS207043 DEDIK-IO — 4,384 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.89/32 # United States — AS207043 DEDIK-IO — 5,060 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.90/32 # Germany — AS207043 DEDIK-IO — 5,000 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.90/32 # United States — AS207043 DEDIK-IO — 5,085 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.84/32 # United States — AS207043 DEDIK-IO — 5,224 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.87/32 # United States — AS207043 DEDIK-IO — 5,173 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.208/32 # Germany — AS207043 DEDIK-IO — 4,839 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.93/32 # United States — AS207043 DEDIK-IO — 5,842 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.156/32 # United States — AS207043 DEDIK-IO — 4,905 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.146/32 # United States — AS207043 DEDIK-IO — 5,397 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-173.231.47.238/32 # United States — AS18450 WEBNX — 5,620 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.86/32 # United States — AS207043 DEDIK-IO — 5,183 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.88/32 # United States — AS207043 DEDIK-IO — 5,091 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.85/32 # United States — AS207043 DEDIK-IO — 5,143 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.149/32 # United States — AS207043 DEDIK-IO — 5,217 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.78/32 # United States — AS207043 DEDIK-IO — 5,190 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-23.94.252.141/32 # United States — AS207043 DEDIK-IO — 5,555 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-2.27.160.91/32 # United States — AS207043 DEDIK-IO — 5,973 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-89.34.90.87/32 # Germany — AS207043 DEDIK-IO — 5,287 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.0.149/32 # Germany — AS135388 RPL-HK — 5,804 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-216.158.95.179/32 # United States — AS18450 WEBNX — 6,791 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-23.94.145.88/32 # United States — AS207043 DEDIK-IO — 5,592 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.157/32 # United States — AS207043 DEDIK-IO — 7,514 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.153/32 # United States — AS207043 DEDIK-IO — 7,687 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.10/32 # United States — AS18450 WEBNX — 7,334 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.155/32 # United States — AS207043 DEDIK-IO — 7,766 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.35/32 # United States — AS18450 WEBNX — 6,947 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.47/32 # United States — AS18450 WEBNX — 7,861 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.45/32 # United States — AS18450 WEBNX — 8,096 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.42/32 # United States — AS18450 WEBNX — 7,806 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.46/32 # United States — AS18450 WEBNX — 7,305 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.40/32 # United States — AS18450 WEBNX — 7,427 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.162/32 # United States — AS207043 DEDIK-IO — 7,473 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-96.62.71.158/32 # United States — AS207043 DEDIK-IO — 7,714 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.41/32 # United States — AS18450 WEBNX — 8,400 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.43/32 # United States — AS18450 WEBNX — 8,111 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.48/32 # United States — AS18450 WEBNX — 8,089 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.197.168/32 # United States — AS62164 HEYMMAN-2 — 7,806 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.76/32 # United States — AS18450 WEBNX — 8,353 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-87.58.199.44/32 # United States — AS18450 WEBNX — 8,030 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-151.240.151.59/32 # Germany — AS207043 DEDIK-IO — 8,539 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
-94.26.0.138/32 # Germany — AS135388 RPL-HK — 11,473 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.83.79/32 # Germany — AS207043 DEDIK-IO — 1,742 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.209/32 # Germany — AS207043 DEDIK-IO — 4,635 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+85.11.161.140/32 # Hong Kong — AS207043 DEDIK-IO — 6,663 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.41.221/32 # Germany — AS207043 DEDIK-IO — 4,426 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.89/32 # United States — AS207043 DEDIK-IO — 5,108 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.90/32 # Germany — AS207043 DEDIK-IO — 5,048 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.90/32 # United States — AS207043 DEDIK-IO — 5,135 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.84/32 # United States — AS207043 DEDIK-IO — 5,274 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.87/32 # United States — AS207043 DEDIK-IO — 5,223 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.208/32 # Germany — AS207043 DEDIK-IO — 4,885 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.93/32 # United States — AS207043 DEDIK-IO — 5,896 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.156/32 # United States — AS207043 DEDIK-IO — 4,949 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.146/32 # United States — AS207043 DEDIK-IO — 5,449 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+173.231.47.238/32 # United States — AS18450 WEBNX — 5,672 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.86/32 # United States — AS207043 DEDIK-IO — 5,233 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.88/32 # United States — AS207043 DEDIK-IO — 5,137 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.85/32 # United States — AS207043 DEDIK-IO — 5,189 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.149/32 # United States — AS207043 DEDIK-IO — 5,265 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.78/32 # United States — AS207043 DEDIK-IO — 5,240 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+23.94.252.141/32 # United States — AS207043 DEDIK-IO — 5,607 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+2.27.160.91/32 # United States — AS207043 DEDIK-IO — 6,029 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+89.34.90.87/32 # Germany — AS207043 DEDIK-IO — 5,339 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.0.149/32 # Germany — AS135388 RPL-HK — 5,858 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+216.158.95.179/32 # United States — AS18450 WEBNX — 6,855 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+23.94.145.88/32 # United States — AS207043 DEDIK-IO — 5,644 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.157/32 # United States — AS207043 DEDIK-IO — 7,583 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.153/32 # United States — AS207043 DEDIK-IO — 7,758 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.10/32 # United States — AS18450 WEBNX — 7,402 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.155/32 # United States — AS207043 DEDIK-IO — 7,838 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.35/32 # United States — AS18450 WEBNX — 7,013 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.47/32 # United States — AS18450 WEBNX — 7,934 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.45/32 # United States — AS18450 WEBNX — 8,172 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.42/32 # United States — AS18450 WEBNX — 7,878 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.46/32 # United States — AS18450 WEBNX — 7,373 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.40/32 # United States — AS18450 WEBNX — 7,495 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.162/32 # United States — AS207043 DEDIK-IO — 7,543 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+96.62.71.158/32 # United States — AS207043 DEDIK-IO — 7,788 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.41/32 # United States — AS18450 WEBNX — 8,478 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.43/32 # United States — AS18450 WEBNX — 8,187 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.48/32 # United States — AS18450 WEBNX — 8,165 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.197.168/32 # United States — AS62164 HEYMMAN-2 — 7,878 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.76/32 # United States — AS18450 WEBNX — 8,433 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+87.58.199.44/32 # United States — AS18450 WEBNX — 8,104 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+151.240.151.59/32 # Germany — AS207043 DEDIK-IO — 8,619 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
+94.26.0.138/32 # Germany — AS135388 RPL-HK — 11,581 hits — src:f3faaf6b-2eed-483f-bba5-851944b3e24c
 5.255.110.228/32 # The Netherlands — AS60404 Liteserver — 3 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-147.78.241.103/32 # Germany — AS43357 OWL — 168 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.241.103/32 # Germany — AS43357 OWL — 172 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 104.36.50.54/32 # United States — AS203020 HostRoyale — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 152.233.51.59/32 # Germany — AS212238 CDNEXT — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 155.2.191.25/32 # United States — AS136557 HOST-AS-AP — 12 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
@@ -546,7 +552,7 @@
 185.195.232.152/32 # United Kingdom — AS39351 ESAB-AS — 136 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 23.234.74.165/32 # United States — AS11878 TZULO — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 89.45.4.214/32 # United States — AS9009 M247 — 16 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
-89.45.4.211/32 # United States — AS9009 M247 — 176 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+89.45.4.211/32 # United States — AS9009 M247 — 180 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 146.70.119.46/32 # United Kingdom — AS9009 M247 — 30 hits — src:53603bf2-5f64-490a-bfd1-b8aaf9e2875f
 23.234.78.102/32 # United States — AS11878 TZULO — 180 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 170.62.100.57/32 # Sweden — AS212238 CDNEXT — 180 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
@@ -554,10 +560,10 @@
 23.234.88.243/32 # United States — AS11878 TZULO — 188 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 23.234.98.173/32 # United States — AS11878 TZULO — 188 hits — src:49fe5de8-37c1-4a80-b8f7-15e793aea738
 135.136.19.202/32 # Germany — AS9009 M247 — 180 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-194.36.27.224/32 # Netherlands — AS43357 OWL — 188 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-147.78.240.107/32 # Germany — AS43357 OWL — 282 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-135.136.36.43/32 # United States — AS9009 M247 — 282 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
-62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 270 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+194.36.27.224/32 # Netherlands — AS43357 OWL — 192 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+147.78.240.107/32 # Germany — AS43357 OWL — 288 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+135.136.36.43/32 # United States — AS9009 M247 — 288 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
+62.101.160.172/32 # The Netherlands — AS203020 HostRoyale — 274 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 216.252.238.189/32 # The Netherlands — AS40676 AS40676 — 24 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 152.233.51.80/32 # Germany — AS212238 CDNEXT — 188 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 194.36.27.27/32 # Netherlands — AS43357 OWL — 192 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
