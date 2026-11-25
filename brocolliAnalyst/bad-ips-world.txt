@@ -1,8 +1,25 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-25 14:00:12 UTC  by Stratacoli 2.67.0
-# Entries: 8827
+# Generated: 2026-11-25 14:30:25 UTC  by Stratacoli 2.67.0
+# Entries: 8844
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+216.26.238.133/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.207.47.112/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.207.37.96/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+45.3.39.18/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.26.227.178/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+209.50.169.183/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.207.35.115/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.167.19.127/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+65.111.4.224/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.207.44.122/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+104.207.34.107/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+65.111.12.56/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.26.224.72/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+65.111.5.86/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+45.3.38.86/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.26.230.146/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+65.111.11.60/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 209.50.168.91/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
 104.207.37.187/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
 209.50.162.50/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
@@ -218,11 +235,11 @@
 65.111.11.211/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 45.3.38.197/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 65.111.12.130/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-45.3.37.156/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+45.3.37.156/32 # United States — AS200373 Drei-K-Tech-GmbH — 8 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 104.207.43.26/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-209.50.160.205/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-216.26.235.232/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
-216.26.224.79/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+209.50.160.205/32 # United States — AS200373 Drei-K-Tech-GmbH — 8 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.26.235.232/32 # United States — AS200373 Drei-K-Tech-GmbH — 8 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
+216.26.224.79/32 # United States — AS200373 Drei-K-Tech-GmbH — 8 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 65.111.13.179/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 65.111.14.83/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
 45.3.39.150/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:930d183d-4637-483c-8abf-2d84c25ee921
