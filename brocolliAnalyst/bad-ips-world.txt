@@ -1,8 +1,9 @@
 # EDL: bad_ips_world  (type: ip)
-# Generated: 2026-11-27 09:24:20 UTC  by Stratacoli 2.67.0
-# Entries: 10173
+# Generated: 2026-11-27 09:24:36 UTC  by Stratacoli 2.67.0
+# Entries: 10174
 # src:<id> tags are app-internal provenance refs — they map to the feeding source inside the app only
 #
+172.179.232.55/32 # United States — AS8075 MICROSOFT-CORP-MSN-AS-BLOCK — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 38.146.28.70/32 # United States — AS174 COGENT-174 — 1 hit — src:d8ac1453-0d52-48ed-94af-2034fcf55083
 45.3.37.211/32 # United States — AS200373 Drei-K-Tech-GmbH — 4 hits — src:43780e93-e50d-42c6-b955-bfea6de76ee8
 5.255.110.254/32 # The Netherlands — AS60404 Liteserver — 3 hits — src:a600439d-a397-45a6-8b6a-3f85c3d0e3a8
